@@ -7,6 +7,8 @@ import RepoComparison from './components/RepoComparison'
 import MaintainerActivityTimeline from './components/MaintainerActivityTimeline'
 import MaintainerHealthIndicators from './components/MaintainerHealthIndicators'
 import PRMetrics from './components/PRMetrics'
+import IssueStatistics from './components/IssueStatistics'
+import ReviewContributions from './components/ReviewContributions'
 import './App.css'
 
 function App() {
@@ -15,11 +17,22 @@ function App() {
     goWitness: [],
     archivista: []
   })
+  const [issueData, setIssueData] = useState({
+    witness: null,
+    goWitness: null,
+    archivista: null
+  })
+  const [reviewData, setReviewData] = useState({
+    witness: null,
+    goWitness: null,
+    archivista: null
+  })
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
     const fetchData = async () => {
       try {
+        // Fetch PR data
         const [witnessData, goWitnessData, archivistaData] = await Promise.all([
           fetch('/data/witness-prs.json').then(r => r.json()),
           fetch('/data/go-witness-prs.json').then(r => r.json()),
@@ -32,6 +45,40 @@ function App() {
           goWitness: goWitnessData.map(pr => ({ ...pr, repo: 'go-witness' })),
           archivista: archivistaData.map(pr => ({ ...pr, repo: 'archivista' }))
         })
+        
+        // Try to fetch issue data (may not exist yet)
+        try {
+          const [witnessIssues, goWitnessIssues, archivistaIssues] = await Promise.all([
+            fetch('/data/witness-issues.json').then(r => r.json()),
+            fetch('/data/go-witness-issues.json').then(r => r.json()),
+            fetch('/data/archivista-issues.json').then(r => r.json())
+          ])
+          
+          setIssueData({
+            witness: witnessIssues,
+            goWitness: goWitnessIssues,
+            archivista: archivistaIssues
+          })
+        } catch (e) {
+          console.log('Issue data not available yet')
+        }
+        
+        // Try to fetch review data (may not exist yet)
+        try {
+          const [witnessReviews, goWitnessReviews, archivistaReviews] = await Promise.all([
+            fetch('/data/witness-reviews.json').then(r => r.json()),
+            fetch('/data/go-witness-reviews.json').then(r => r.json()),
+            fetch('/data/archivista-reviews.json').then(r => r.json())
+          ])
+          
+          setReviewData({
+            witness: witnessReviews,
+            goWitness: goWitnessReviews,
+            archivista: archivistaReviews
+          })
+        } catch (e) {
+          console.log('Review data not available yet')
+        }
       } catch (error) {
         console.error('Error fetching data:', error)
       } finally {
@@ -92,6 +139,22 @@ function App() {
           Analysis of pull request velocity including time to merge and responsiveness metrics.
         </p>
         <PRMetrics data={prData} />
+      </section>
+
+      <section className="chart-section">
+        <h2>Issue & PR Backlog Statistics</h2>
+        <p className="section-description">
+          Current state of open issues and pull requests across all repositories.
+        </p>
+        <IssueStatistics issueData={issueData} />
+      </section>
+
+      <section className="chart-section">
+        <h2>Review Contributions</h2>
+        <p className="section-description">
+          Track who is providing the most code reviews and PR comments to identify key reviewers.
+        </p>
+        <ReviewContributions reviewData={reviewData} />
       </section>
       </div>
     </FilterProvider>

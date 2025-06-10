@@ -40,7 +40,9 @@ jobs:
         run: |
           cd scripts
           chmod +x collect-pr-data.sh
+          chmod +x collect-issue-data.sh
           ./collect-pr-data.sh
+          ./collect-issue-data.sh
           
       - name: Run analysis scripts
         run: |
