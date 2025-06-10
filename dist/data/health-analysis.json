@@ -1,0 +1,187 @@
+{
+  "generated": "2025-06-10T18:01:24.779Z",
+  "repositories": [
+    {
+      "name": "witness",
+      "contributors": {
+        "repoName": "witness",
+        "totalPRs": 350,
+        "totalHumanPRs": 184,
+        "totalBotPRs": 166,
+        "totalContributors": 28,
+        "humanContributors": 25,
+        "topContributors": [
+          [
+            "mikhailswift",
+            67
+          ],
+          [
+            "colek42",
+            33
+          ],
+          [
+            "ChaosInTheCRD",
+            24
+          ],
+          [
+            "jkjell",
+            22
+          ],
+          [
+            "matglas",
+            7
+          ]
+        ],
+        "significantContributors": [
+          {
+            "name": "colek42",
+            "percentage": "17.9"
+          },
+          {
+            "name": "mikhailswift",
+            "percentage": "36.4"
+          },
+          {
+            "name": "jkjell",
+            "percentage": "12.0"
+          },
+          {
+            "name": "ChaosInTheCRD",
+            "percentage": "13.0"
+          }
+        ],
+        "avgMonthlyContributors": "2.3",
+        "busFactor": 4
+      },
+      "velocity": {
+        "repoName": "witness",
+        "avgPRsPerMonthLast12": "8.3",
+        "avgPRsPerMonthLast3": "8.7",
+        "trend": "increasing",
+        "lastMonth": "2025-06"
+      }
+    },
+    {
+      "name": "go-witness",
+      "contributors": {
+        "repoName": "go-witness",
+        "totalPRs": 415,
+        "totalHumanPRs": 124,
+        "totalBotPRs": 291,
+        "totalContributors": 18,
+        "humanContributors": 16,
+        "topContributors": [
+          [
+            "mikhailswift",
+            30
+          ],
+          [
+            "ChaosInTheCRD",
+            29
+          ],
+          [
+            "jkjell",
+            23
+          ],
+          [
+            "colek42",
+            17
+          ],
+          [
+            "matglas",
+            5
+          ]
+        ],
+        "significantContributors": [
+          {
+            "name": "colek42",
+            "percentage": "13.7"
+          },
+          {
+            "name": "mikhailswift",
+            "percentage": "24.2"
+          },
+          {
+            "name": "jkjell",
+            "percentage": "18.5"
+          },
+          {
+            "name": "ChaosInTheCRD",
+            "percentage": "23.4"
+          }
+        ],
+        "avgMonthlyContributors": "3.0",
+        "busFactor": 4
+      },
+      "velocity": {
+        "repoName": "go-witness",
+        "avgPRsPerMonthLast12": "15.3",
+        "avgPRsPerMonthLast3": "15.3",
+        "trend": "stable",
+        "lastMonth": "2025-06"
+      }
+    },
+    {
+      "name": "archivista",
+      "contributors": {
+        "repoName": "archivista",
+        "totalPRs": 475,
+        "totalHumanPRs": 112,
+        "totalBotPRs": 363,
+        "totalContributors": 17,
+        "humanContributors": 14,
+        "topContributors": [
+          [
+            "kairoaraujo",
+            32
+          ],
+          [
+            "mikhailswift",
+            31
+          ],
+          [
+            "jkjell",
+            23
+          ],
+          [
+            "fkautz",
+            9
+          ],
+          [
+            "matglas",
+            4
+          ]
+        ],
+        "significantContributors": [
+          {
+            "name": "jkjell",
+            "percentage": "20.5"
+          },
+          {
+            "name": "mikhailswift",
+            "percentage": "27.7"
+          },
+          {
+            "name": "kairoaraujo",
+            "percentage": "28.6"
+          }
+        ],
+        "avgMonthlyContributors": "3.2",
+        "busFactor": 3
+      },
+      "velocity": {
+        "repoName": "archivista",
+        "avgPRsPerMonthLast12": "19.3",
+        "avgPRsPerMonthLast3": "14.3",
+        "trend": "decreasing",
+        "lastMonth": "2025-06"
+      }
+    }
+  ],
+  "overall": {
+    "totalPRs": 1240,
+    "totalContributors": 42,
+    "humanContributors": 38,
+    "avgPRsPerContributor": "29.5"
+  }
+}

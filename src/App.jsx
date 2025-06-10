@@ -34,9 +34,9 @@ function App() {
       try {
         // Fetch PR data
         const [witnessData, goWitnessData, archivistaData] = await Promise.all([
-          fetch('/data/witness-prs.json').then(r => r.json()),
-          fetch('/data/go-witness-prs.json').then(r => r.json()),
-          fetch('/data/archivista-prs.json').then(r => r.json())
+          fetch('/witnesshealth/data/witness-prs.json').then(r => r.json()),
+          fetch('/witnesshealth/data/go-witness-prs.json').then(r => r.json()),
+          fetch('/witnesshealth/data/archivista-prs.json').then(r => r.json())
         ])
         
         // Add repo field to each PR for easier processing
@@ -49,9 +49,9 @@ function App() {
         // Try to fetch issue data (may not exist yet)
         try {
           const [witnessIssues, goWitnessIssues, archivistaIssues] = await Promise.all([
-            fetch('/data/witness-issues.json').then(r => r.json()),
-            fetch('/data/go-witness-issues.json').then(r => r.json()),
-            fetch('/data/archivista-issues.json').then(r => r.json())
+            fetch('/witnesshealth/data/witness-issues.json').then(r => r.json()),
+            fetch('/witnesshealth/data/go-witness-issues.json').then(r => r.json()),
+            fetch('/witnesshealth/data/archivista-issues.json').then(r => r.json())
           ])
           
           setIssueData({
@@ -66,9 +66,9 @@ function App() {
         // Try to fetch review data (may not exist yet)
         try {
           const [witnessReviews, goWitnessReviews, archivistaReviews] = await Promise.all([
-            fetch('/data/witness-reviews.json').then(r => r.json()),
-            fetch('/data/go-witness-reviews.json').then(r => r.json()),
-            fetch('/data/archivista-reviews.json').then(r => r.json())
+            fetch('/witnesshealth/data/witness-reviews.json').then(r => r.json()),
+            fetch('/witnesshealth/data/go-witness-reviews.json').then(r => r.json()),
+            fetch('/witnesshealth/data/archivista-reviews.json').then(r => r.json())
           ])
           
           setReviewData({
