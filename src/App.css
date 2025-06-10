@@ -6,7 +6,7 @@
 
 h1 {
   text-align: center;
-  color: #333;
+  color: #1a1a1a;
   margin-bottom: 3rem;
 }
 
@@ -16,7 +16,7 @@ h1 {
   align-items: center;
   height: 100vh;
   font-size: 1.5rem;
-  color: #666;
+  color: #4b5563;
 }
 
 .chart-section {
@@ -29,7 +29,7 @@ h1 {
 
 .chart-section h2 {
   margin-bottom: 2rem;
-  color: #444;
+  color: #1a1a1a;
 }
 
 .repo-comparison {
@@ -68,12 +68,12 @@ h1 {
 .stat-value {
   font-size: 2rem;
   font-weight: bold;
-  color: #333;
+  color: #1a1a1a;
   margin-bottom: 0.5rem;
 }
 
 .stat-label {
-  color: #666;
+  color: #4b5563;
   font-size: 0.9rem;
 }
 
@@ -94,14 +94,14 @@ h1 {
 }
 
 .section-description {
-  color: #6b7280;
+  color: #4b5563;
   font-size: 0.95rem;
   margin-bottom: 1.5rem;
   text-align: center;
 }
 
 .chart-description {
-  color: #6b7280;
+  color: #4b5563;
   font-size: 0.9rem;
   margin-bottom: 1rem;
   text-align: center;
@@ -126,10 +126,10 @@ h1 {
 }
 
 .custom-tooltip .total {
-  color: #666;
+  color: #4b5563;
   margin-bottom: 8px;
   padding-bottom: 8px;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #e5e7eb;
 }
 
 /* Health indicators styles */
@@ -181,7 +181,7 @@ h1 {
 
 .risk-card h4 {
   margin: 0 0 0.5rem 0;
-  color: #333;
+  color: #1a1a1a;
 }
 
 .risk-level {
@@ -195,7 +195,7 @@ h1 {
   flex-direction: column;
   gap: 0.25rem;
   font-size: 0.85rem;
-  color: #666;
+  color: #4b5563;
 }
 
 .indicator-legend {
@@ -207,7 +207,7 @@ h1 {
 
 .indicator-legend h4 {
   margin-bottom: 1rem;
-  color: #333;
+  color: #1a1a1a;
 }
 
 .indicator-legend ul {
@@ -217,17 +217,17 @@ h1 {
 
 .indicator-legend li {
   margin-bottom: 0.5rem;
-  color: #666;
+  color: #4b5563;
 }
 
 .indicator-legend strong {
-  color: #333;
+  color: #1a1a1a;
 }
 
 .no-data-message {
   padding: 3rem;
   text-align: center;
-  color: #6b7280;
+  color: #4b5563;
   background: #f9fafb;
   border-radius: 8px;
   margin: 2rem 0;
@@ -235,7 +235,7 @@ h1 {
 
 .filter-status {
   text-align: center;
-  color: #6b7280;
+  color: #4b5563;
   font-size: 0.9rem;
   margin-bottom: 1rem;
 }
@@ -285,7 +285,7 @@ h1 {
 
 .filter-info {
   font-size: 0.9rem;
-  color: #6b7280;
+  color: #4b5563;
   font-style: italic;
 }
 
@@ -355,7 +355,7 @@ h1 {
 }
 
 .dist-value {
-  color: #6b7280;
+  color: #4b5563;
 }
 
 .metrics-insights {
@@ -377,5 +377,5 @@ h1 {
 
 .metrics-insights li {
   margin-bottom: 0.5rem;
-  color: #6b7280;
+  color: #4b5563;
 }

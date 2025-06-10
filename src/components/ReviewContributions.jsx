@@ -195,7 +195,7 @@ function ReviewContributions({ reviewData }) {
         .chart-container h4 {
           text-align: center;
           margin-bottom: 1rem;
-          color: #4b5563;
+          color: #1a1a1a;
         }
         
         .insights {
@@ -207,7 +207,7 @@ function ReviewContributions({ reviewData }) {
         
         .insights h4 {
           margin-bottom: 1rem;
-          color: #374151;
+          color: #1a1a1a;
         }
         
         .insights ul {
@@ -217,11 +217,11 @@ function ReviewContributions({ reviewData }) {
         
         .insights li {
           margin-bottom: 0.5rem;
-          color: #6b7280;
+          color: #4b5563;
         }
         
         .insights strong {
-          color: #374151;
+          color: #1a1a1a;
         }
       `}</style>
     </div>
