@@ -1,0 +1,105 @@
+# Active Maintainer Analysis (Last 3 Months)
+
+Generated: 2025-06-10T18:21:20.435Z
+
+## Active Maintainers Summary
+
+- **Currently Active**: 10 maintainers
+- **Definition**: Contributors with merged PRs in the last 3 months
+
+## Active Maintainer Details
+
+### 1. mikhailswift
+- **Recent Activity**: 9 PRs in last 3 months (3.0/month)
+- **Last PR**: 25 days ago
+- **Total PRs**: 128 (all time)
+- **Active Repos**: witness, go-witness, archivista
+
+### 2. colek42
+- **Recent Activity**: 6 PRs in last 3 months (2.0/month)
+- **Last PR**: 1 days ago
+- **Total PRs**: 53 (all time)
+- **Active Repos**: witness, go-witness, archivista
+
+### 3. jkjell
+- **Recent Activity**: 6 PRs in last 3 months (2.0/month)
+- **Last PR**: 34 days ago
+- **Total PRs**: 68 (all time)
+- **Active Repos**: witness, go-witness, archivista
+
+### 4. ChaosInTheCRD
+- **Recent Activity**: 3 PRs in last 3 months (1.0/month)
+- **Last PR**: 73 days ago
+- **Total PRs**: 54 (all time)
+- **Active Repos**: witness, go-witness, archivista
+
+### 5. suzuki-shunsuke
+- **Recent Activity**: 1 PRs in last 3 months (0.3/month)
+- **Last PR**: 49 days ago
+- **Total PRs**: 1 (all time)
+- **Active Repos**: witness
+
+### 6. linghuying
+- **Recent Activity**: 1 PRs in last 3 months (0.3/month)
+- **Last PR**: 82 days ago
+- **Total PRs**: 1 (all time)
+- **Active Repos**: witness
+
+### 7. Horiodino
+- **Recent Activity**: 1 PRs in last 3 months (0.3/month)
+- **Last PR**: 54 days ago
+- **Total PRs**: 1 (all time)
+- **Active Repos**: witness
+
+### 8. matglas
+- **Recent Activity**: 1 PRs in last 3 months (0.3/month)
+- **Last PR**: 67 days ago
+- **Total PRs**: 16 (all time)
+- **Active Repos**: witness, go-witness, archivista
+
+### 9. kairoaraujo
+- **Recent Activity**: 1 PRs in last 3 months (0.3/month)
+- **Last PR**: 77 days ago
+- **Total PRs**: 37 (all time)
+- **Active Repos**: witness, go-witness, archivista
+
+### 10. fkautz
+- **Recent Activity**: 1 PRs in last 3 months (0.3/month)
+- **Last PR**: 56 days ago
+- **Total PRs**: 14 (all time)
+- **Active Repos**: witness, go-witness, archivista
+
+## Recently Inactive Maintainers
+
+Maintainers who were active but haven't contributed in the last 3 months:
+
+- **jrampon**: Last active 3 months ago
+- **wcrum**: Last active 5 months ago
+- **ericwyles**: Last active 9 months ago
+- **joshdabosh**: Last active 9 months ago
+- **rgreinho**: Last active 10 months ago
+- **kriscoleman**: Last active 11 months ago
+- **codeaucafe**: Last active 12 months ago
+- **DarikshaAnsari**: Last active 12 months ago
+- **rrey**: Last active 12 months ago
+- **Yaxhveer**: Last active 12 months ago
+
+## Workload Distribution
+
+**Recent PR Distribution** (last 3 months):
+
+mikhailswift: ███████████████ 30.0% (9 PRs)
+colek42: ██████████ 20.0% (6 PRs)
+jkjell: ██████████ 20.0% (6 PRs)
+ChaosInTheCRD: █████ 10.0% (3 PRs)
+suzuki-shunsuke: ██ 3.3% (1 PRs)
+
+**Bus Factor**: 2 maintainers control 50% of recent contributions
+
+## Recommendations
+
+1. **Focus on Active Contributors**: With only 10 active maintainers, retention is critical
+2. **Re-engage Recent Dropoffs**: 22 maintainers became inactive recently
+3. **Distribute Workload**: Top 3 maintainers handle 70% of work
+
+Analysis saved to: active-maintainer-analysis.json
