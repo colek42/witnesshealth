@@ -25,7 +25,7 @@ function ReviewContributions({ reviewData }) {
         repoData.reviewerStats.forEach(reviewer => {
           const name = reviewer.reviewer
           // Filter out bots
-          if (name.includes('bot') || name.includes('app/') || name === 'unknown') return
+          if (name.includes('bot') || name.includes('app/') || name === 'unknown' || name === 'netlify') return
           
           if (!allReviewers[name]) {
             allReviewers[name] = { name, total: 0, byRepo: {} }
@@ -40,7 +40,7 @@ function ReviewContributions({ reviewData }) {
         repoData.commenterStats.forEach(commenter => {
           const name = commenter.commenter
           // Filter out bots
-          if (name.includes('bot') || name.includes('app/') || name === 'unknown') return
+          if (name.includes('bot') || name.includes('app/') || name === 'unknown' || name === 'netlify') return
           
           if (!allCommenters[name]) {
             allCommenters[name] = { name, total: 0, byRepo: {} }
