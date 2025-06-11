@@ -85,6 +85,17 @@
 ],
     "prReviews": [
   {
+    "prNumber": 517,
+    "author": "app/dependabot",
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
+    "commenters": []
+  },
+  {
     "prNumber": 516,
     "author": "app/dependabot",
     "reviewers": [
@@ -2508,17 +2519,6 @@
   },
   {
     "prNumber": 308,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 307,
     "author": "app/dependabot",
     "reviewers": [
       {
