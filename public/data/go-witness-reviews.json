@@ -22,7 +22,7 @@
   },
   {
     "reviewer": "matglas",
-    "totalReviews": 8
+    "totalReviews": 9
   },
   {
     "reviewer": "github-advanced-security",
@@ -120,7 +120,12 @@
   {
     "prNumber": 514,
     "author": "colek42",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "matglas",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "colek42",
