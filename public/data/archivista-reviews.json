@@ -49,6 +49,10 @@
   {
     "commenter": "kairoaraujo",
     "totalComments": 1
+  },
+  {
+    "commenter": "hibare",
+    "totalComments": 1
   }
 ],
     "prReviews": [
@@ -204,6 +208,10 @@
     "commenters": [
       {
         "commenter": "codecov",
+        "count": 1
+      },
+      {
+        "commenter": "hibare",
         "count": 1
       }
     ]
