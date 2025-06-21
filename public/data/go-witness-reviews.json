@@ -29,15 +29,15 @@
     "totalReviews": 3
   },
   {
+    "reviewer": "kriscoleman",
+    "totalReviews": 2
+  },
+  {
     "reviewer": "adityasaky",
     "totalReviews": 2
   },
   {
     "reviewer": "mswift-test",
-    "totalReviews": 1
-  },
-  {
-    "reviewer": "kriscoleman",
     "totalReviews": 1
   }
 ],
@@ -77,6 +77,10 @@
   {
     "commenter": "axi92",
     "totalComments": 2
+  },
+  {
+    "commenter": "kriscoleman",
+    "totalComments": 1
   },
   {
     "commenter": "joshdabosh",
@@ -619,11 +623,19 @@
       {
         "reviewer": "jkjell",
         "count": 1
+      },
+      {
+        "reviewer": "kriscoleman",
+        "count": 1
       }
     ],
     "commenters": [
       {
         "commenter": "jkjell",
+        "count": 1
+      },
+      {
+        "commenter": "kriscoleman",
         "count": 1
       }
     ]
