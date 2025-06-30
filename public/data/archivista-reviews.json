@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 129
+    "totalReviews": 128
   },
   {
     "reviewer": "kairoaraujo",
@@ -32,7 +32,7 @@
   },
   {
     "commenter": "codecov",
-    "totalComments": 11
+    "totalComments": 10
   },
   {
     "commenter": "jkjell",
@@ -56,6 +56,12 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 582,
+    "author": "app/github-actions",
+    "reviewers": [],
+    "commenters": []
+  },
   {
     "prNumber": 581,
     "author": "app/dependabot",
@@ -2384,22 +2390,6 @@
       {
         "commenter": "ChaosInTheCRD",
         "count": 2
-      }
-    ]
-  },
-  {
-    "prNumber": 376,
-    "author": "kairoaraujo",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "codecov",
-        "count": 1
       }
     ]
   }
