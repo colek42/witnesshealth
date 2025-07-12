@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 142
+    "totalReviews": 144
   },
   {
     "reviewer": "ChaosInTheCRD",
@@ -10,7 +10,7 @@
   },
   {
     "reviewer": "mikhailswift",
-    "totalReviews": 29
+    "totalReviews": 30
   },
   {
     "reviewer": "colek42",
@@ -93,8 +93,12 @@
     "author": "fkautz",
     "reviewers": [
       {
-        "reviewer": "mikhailswift",
+        "reviewer": "jkjell",
         "count": 1
+      },
+      {
+        "reviewer": "mikhailswift",
+        "count": 2
       }
     ],
     "commenters": []
@@ -257,6 +261,10 @@
     "prNumber": 514,
     "author": "colek42",
     "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      },
       {
         "reviewer": "matglas",
         "count": 1
