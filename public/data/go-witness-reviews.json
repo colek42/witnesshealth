@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 144
+    "totalReviews": 145
   },
   {
     "reviewer": "ChaosInTheCRD",
@@ -700,7 +700,7 @@
     "reviewers": [
       {
         "reviewer": "jkjell",
-        "count": 1
+        "count": 2
       },
       {
         "reviewer": "kriscoleman",
