@@ -44,7 +44,7 @@
     "commenterStats": [
   {
     "commenter": "netlify",
-    "totalComments": 199
+    "totalComments": 200
   },
   {
     "commenter": "colek42",
@@ -112,6 +112,38 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 622,
+    "author": "app/dependabot",
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "prNumber": 621,
+    "author": "app/dependabot",
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
   {
     "prNumber": 620,
     "author": "app/dependabot",
@@ -3481,28 +3513,6 @@
         "count": 1
       }
     ]
-  },
-  {
-    "prNumber": 394,
-    "author": "ChaosInTheCRD",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 2
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "netlify",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 393,
-    "author": "ChaosInTheCRD",
-    "reviewers": [],
-    "commenters": []
   }
 ]
 }
