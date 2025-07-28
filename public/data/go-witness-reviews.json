@@ -22,7 +22,7 @@
   },
   {
     "reviewer": "matglas",
-    "totalReviews": 9
+    "totalReviews": 11
   },
   {
     "reviewer": "github-advanced-security",
@@ -44,7 +44,7 @@
     "commenterStats": [
   {
     "commenter": "matglas",
-    "totalComments": 18
+    "totalComments": 20
   },
   {
     "commenter": "colek42",
@@ -107,6 +107,10 @@
     "reviewers": [
       {
         "reviewer": "jkjell",
+        "count": 1
+      },
+      {
+        "reviewer": "matglas",
         "count": 1
       },
       {
@@ -290,6 +294,10 @@
     "commenters": [
       {
         "commenter": "colek42",
+        "count": 1
+      },
+      {
+        "commenter": "matglas",
         "count": 1
       }
     ]
@@ -874,7 +882,12 @@
   {
     "prNumber": 464,
     "author": "colek42",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "matglas",
+        "count": 1
+      }
+    ],
     "commenters": []
   },
   {
@@ -1532,6 +1545,10 @@
       {
         "commenter": "colek42",
         "count": 2
+      },
+      {
+        "commenter": "matglas",
+        "count": 1
       },
       {
         "commenter": "mikhailswift",
