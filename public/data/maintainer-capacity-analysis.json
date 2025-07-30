@@ -1,5 +1,5 @@
 {
-  "generated": "2025-07-29T00:26:22.773Z",
+  "generated": "2025-07-30T00:24:28.855Z",
   "topMaintainers": [
     {
       "name": "mikhailswift",
@@ -144,10 +144,10 @@
     },
     {
       "name": "ChaosInTheCRD",
-      "totalPRs": 54,
+      "totalPRs": 55,
       "firstPR": "2023-12-13T12:38:40Z",
-      "lastPR": "2024-06-01T04:47:46Z",
-      "avgMonthlyPRs": "6.0",
+      "lastPR": "2025-07-29T15:56:51Z",
+      "avgMonthlyPRs": "5.5",
       "maxMonthlyPRs": 13,
       "recentAvg": "2.0",
       "trend": "decreasing significantly",
@@ -161,15 +161,21 @@
           "start": "2024-08",
           "end": "2025-03",
           "duration": 6
+        },
+        {
+          "start": "2025-03",
+          "end": "2025-07",
+          "duration": 3
         }
       ],
       "longestGap": 6,
       "repoActivity": {
-        "witness": 24,
+        "witness": 25,
         "go-witness": 29,
         "archivista": 1
       },
       "monthlyActivity": {
+        "2025-07": 1,
         "2024-06": 1,
         "2024-05": 13,
         "2024-04": 2,
@@ -296,10 +302,10 @@
     },
     {
       "name": "matglas",
-      "totalPRs": 16,
+      "totalPRs": 17,
       "firstPR": "2024-04-23T17:59:44Z",
-      "lastPR": "2025-02-24T17:33:58Z",
-      "avgMonthlyPRs": "1.6",
+      "lastPR": "2025-07-29T12:48:57Z",
+      "avgMonthlyPRs": "1.5",
       "maxMonthlyPRs": 3,
       "recentAvg": "1.7",
       "trend": "increasing",
@@ -318,15 +324,21 @@
           "start": "2025-02",
           "end": "2025-04",
           "duration": 1
+        },
+        {
+          "start": "2025-04",
+          "end": "2025-07",
+          "duration": 2
         }
       ],
-      "longestGap": 1,
+      "longestGap": 2,
       "repoActivity": {
-        "witness": 7,
+        "witness": 8,
         "go-witness": 5,
         "archivista": 4
       },
       "monthlyActivity": {
+        "2025-07": 1,
         "2025-02": 3,
         "2024-10": 1,
         "2024-12": 2,

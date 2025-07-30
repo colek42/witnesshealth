@@ -14,7 +14,7 @@
   },
   {
     "reviewer": "matglas",
-    "totalReviews": 11
+    "totalReviews": 12
   },
   {
     "reviewer": "kairoaraujo",
@@ -112,6 +112,26 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 626,
+    "author": "ChaosInTheCRD",
+    "reviewers": [
+      {
+        "reviewer": "matglas",
+        "count": 1
+      },
+      {
+        "reviewer": "mikhailswift",
+        "count": 1
+      }
+    ],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
   {
     "prNumber": 625,
     "author": "app/dependabot",
@@ -3496,22 +3516,6 @@
     "reviewers": [
       {
         "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "netlify",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 398,
-    "author": "jkjell",
-    "reviewers": [
-      {
-        "reviewer": "mikhailswift",
         "count": 1
       }
     ],
