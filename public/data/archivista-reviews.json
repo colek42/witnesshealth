@@ -6,7 +6,7 @@
   },
   {
     "reviewer": "kairoaraujo",
-    "totalReviews": 58
+    "totalReviews": 57
   },
   {
     "reviewer": "mikhailswift",
@@ -52,6 +52,12 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 605,
+    "author": "app/github-actions",
+    "reviewers": [],
+    "commenters": []
+  },
   {
     "prNumber": 604,
     "author": "kriscoleman",
@@ -2356,17 +2362,6 @@
   },
   {
     "prNumber": 401,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "kairoaraujo",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 400,
     "author": "app/dependabot",
     "reviewers": [
       {
