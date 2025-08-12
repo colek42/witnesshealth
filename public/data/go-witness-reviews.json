@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 144
+    "totalReviews": 141
   },
   {
     "reviewer": "ChaosInTheCRD",
@@ -17,12 +17,12 @@
     "totalReviews": 31
   },
   {
-    "reviewer": "kairoaraujo",
-    "totalReviews": 13
-  },
-  {
     "reviewer": "matglas",
     "totalReviews": 12
+  },
+  {
+    "reviewer": "kairoaraujo",
+    "totalReviews": 10
   },
   {
     "reviewer": "github-advanced-security",
@@ -44,7 +44,7 @@
     "commenterStats": [
   {
     "commenter": "matglas",
-    "totalComments": 20
+    "totalComments": 18
   },
   {
     "commenter": "colek42",
@@ -52,7 +52,7 @@
   },
   {
     "commenter": "mikhailswift",
-    "totalComments": 11
+    "totalComments": 10
   },
   {
     "commenter": "dependabot",
@@ -80,6 +80,30 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 545,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
+  {
+    "prNumber": 544,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
+  {
+    "prNumber": 543,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
+  {
+    "prNumber": 542,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
   {
     "prNumber": 541,
     "author": "app/dependabot",
@@ -2462,72 +2486,6 @@
       }
     ],
     "commenters": []
-  },
-  {
-    "prNumber": 336,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "kairoaraujo",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 335,
-    "author": "mikhailswift",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      },
-      {
-        "reviewer": "kairoaraujo",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "matglas",
-        "count": 1
-      },
-      {
-        "commenter": "mikhailswift",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 334,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      },
-      {
-        "reviewer": "kairoaraujo",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 333,
-    "author": "kairoaraujo",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "matglas",
-        "count": 1
-      }
-    ]
   }
 ]
 }
