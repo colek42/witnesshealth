@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 138
+    "totalReviews": 139
   },
   {
     "reviewer": "kairoaraujo",
@@ -10,7 +10,7 @@
   },
   {
     "reviewer": "mikhailswift",
-    "totalReviews": 7
+    "totalReviews": 8
   },
   {
     "reviewer": "ChaosInTheCRD",
@@ -43,6 +43,10 @@
     "totalComments": 2
   },
   {
+    "commenter": "kriscoleman",
+    "totalComments": 1
+  },
+  {
     "commenter": "kairoaraujo",
     "totalComments": 1
   },
@@ -55,7 +59,12 @@
   {
     "prNumber": 606,
     "author": "app/dependabot",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
     "commenters": []
   },
   {
@@ -76,11 +85,19 @@
       {
         "reviewer": "jkjell",
         "count": 1
+      },
+      {
+        "reviewer": "mikhailswift",
+        "count": 1
       }
     ],
     "commenters": [
       {
         "commenter": "codecov",
+        "count": 1
+      },
+      {
+        "commenter": "kriscoleman",
         "count": 1
       }
     ]
