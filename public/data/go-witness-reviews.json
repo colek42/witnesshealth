@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 145
+    "totalReviews": 146
   },
   {
     "reviewer": "ChaosInTheCRD",
@@ -56,7 +56,7 @@
   },
   {
     "commenter": "dependabot",
-    "totalComments": 10
+    "totalComments": 9
   },
   {
     "commenter": "ChaosInTheCRD",
@@ -80,6 +80,17 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 547,
+    "author": "app/dependabot",
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
+    "commenters": []
+  },
   {
     "prNumber": 546,
     "author": "app/dependabot",
@@ -2495,17 +2506,6 @@
       }
     ],
     "commenters": []
-  },
-  {
-    "prNumber": 338,
-    "author": "app/dependabot",
-    "reviewers": [],
-    "commenters": [
-      {
-        "commenter": "dependabot",
-        "count": 1
-      }
-    ]
   }
 ]
 }
