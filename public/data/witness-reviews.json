@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 159
+    "totalReviews": 160
   },
   {
     "reviewer": "mikhailswift",
@@ -123,7 +123,12 @@
   {
     "prNumber": 646,
     "author": "manzil-infinity180",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "netlify",
