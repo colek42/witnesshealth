@@ -39,6 +39,10 @@
     "totalComments": 7
   },
   {
+    "commenter": "bradbeck",
+    "totalComments": 2
+  },
+  {
     "commenter": "mikhailswift",
     "totalComments": 1
   },
@@ -52,10 +56,6 @@
   },
   {
     "commenter": "hibare",
-    "totalComments": 1
-  },
-  {
-    "commenter": "bradbeck",
     "totalComments": 1
   }
 ],
@@ -120,7 +120,7 @@
     "commenters": [
       {
         "commenter": "bradbeck",
-        "count": 1
+        "count": 2
       },
       {
         "commenter": "codecov",
