@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 147
+    "totalReviews": 148
   },
   {
     "reviewer": "ChaosInTheCRD",
@@ -83,7 +83,12 @@
   {
     "prNumber": 553,
     "author": "manzil-infinity180",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
     "commenters": []
   },
   {
