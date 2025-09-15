@@ -14,7 +14,7 @@
   },
   {
     "reviewer": "matglas",
-    "totalReviews": 9
+    "totalReviews": 11
   },
   {
     "reviewer": "kairoaraujo",
@@ -138,7 +138,12 @@
   {
     "prNumber": 657,
     "author": "rabajaj0509",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "matglas",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "netlify",
@@ -153,7 +158,12 @@
   {
     "prNumber": 656,
     "author": "manzil-infinity180",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "matglas",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "manzil-infinity180",
