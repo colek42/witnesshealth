@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 141
+    "totalReviews": 139
   },
   {
     "reviewer": "kairoaraujo",
@@ -31,15 +31,15 @@
 ],
     "commenterStats": [
   {
-    "commenter": "codecov",
-    "totalComments": 11
-  },
-  {
     "commenter": "jkjell",
-    "totalComments": 9
+    "totalComments": 10
   },
   {
     "commenter": "dependabot",
+    "totalComments": 9
+  },
+  {
+    "commenter": "codecov",
     "totalComments": 8
   },
   {
@@ -64,6 +64,60 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 627,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "dependabot",
+        "count": 1
+      },
+      {
+        "commenter": "jkjell",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "prNumber": 626,
+    "author": "app/dependabot",
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
+    "commenters": []
+  },
+  {
+    "prNumber": 625,
+    "author": "app/dependabot",
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
+    "commenters": []
+  },
+  {
+    "prNumber": 624,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
+  {
+    "prNumber": 623,
+    "author": "app/dependabot",
+    "reviewers": [
+      {
+        "reviewer": "kairoaraujo",
+        "count": 1
+      }
+    ],
+    "commenters": []
+  },
   {
     "prNumber": 621,
     "author": "app/dependabot",
@@ -2338,76 +2392,6 @@
       }
     ],
     "commenters": []
-  },
-  {
-    "prNumber": 421,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "codecov",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 420,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "codecov",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 419,
-    "author": "mikhailswift",
-    "reviewers": [
-      {
-        "reviewer": "kairoaraujo",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 418,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 417,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "codecov",
-        "count": 1
-      }
-    ]
   }
 ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated": "2025-09-15T00:23:34.448Z",
+  "generated": "2025-09-16T00:22:01.190Z",
   "topMaintainers": [
     {
       "name": "mikhailswift",
@@ -412,22 +412,22 @@
     },
     {
       "name": "manzil-infinity180",
-      "totalPRs": 12,
+      "totalPRs": 13,
       "firstPR": "2025-09-02T13:57:39Z",
-      "lastPR": "2025-08-27T08:00:54Z",
-      "avgMonthlyPRs": "6.0",
+      "lastPR": "2025-09-15T18:54:11Z",
+      "avgMonthlyPRs": "6.5",
       "maxMonthlyPRs": 10,
-      "recentAvg": "6.0",
+      "recentAvg": "6.5",
       "trend": "stable",
       "gaps": [],
       "longestGap": 0,
       "repoActivity": {
-        "witness": 11,
+        "witness": 12,
         "go-witness": 1
       },
       "monthlyActivity": {
-        "2025-08": 10,
-        "2025-09": 2
+        "2025-09": 3,
+        "2025-08": 10
       }
     }
   ],
