@@ -51,11 +51,11 @@
     "totalComments": 8
   },
   {
-    "commenter": "dependabot",
-    "totalComments": 8
+    "commenter": "mikhailswift",
+    "totalComments": 7
   },
   {
-    "commenter": "mikhailswift",
+    "commenter": "dependabot",
     "totalComments": 7
   },
   {
@@ -80,6 +80,12 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 564,
+    "author": "fkautz",
+    "reviewers": [],
+    "commenters": []
+  },
   {
     "prNumber": 563,
     "author": "app/dependabot",
@@ -2434,17 +2440,6 @@
   },
   {
     "prNumber": 357,
-    "author": "app/dependabot",
-    "reviewers": [],
-    "commenters": [
-      {
-        "commenter": "dependabot",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 356,
     "author": "app/dependabot",
     "reviewers": [],
     "commenters": [
