@@ -6,7 +6,7 @@
   },
   {
     "reviewer": "colek42",
-    "totalReviews": 31
+    "totalReviews": 32
   },
   {
     "reviewer": "mikhailswift",
@@ -22,6 +22,10 @@
   },
   {
     "reviewer": "matglas",
+    "totalReviews": 5
+  },
+  {
+    "reviewer": "fkautz",
     "totalReviews": 5
   },
   {
@@ -102,6 +106,14 @@
       {
         "reviewer": "JustinCappos",
         "count": 1
+      },
+      {
+        "reviewer": "colek42",
+        "count": 1
+      },
+      {
+        "reviewer": "fkautz",
+        "count": 5
       }
     ],
     "commenters": []
