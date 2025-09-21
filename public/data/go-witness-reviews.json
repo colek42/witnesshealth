@@ -10,7 +10,7 @@
   },
   {
     "reviewer": "mikhailswift",
-    "totalReviews": 29
+    "totalReviews": 30
   },
   {
     "reviewer": "ChaosInTheCRD",
@@ -114,6 +114,10 @@
       {
         "reviewer": "fkautz",
         "count": 5
+      },
+      {
+        "reviewer": "mikhailswift",
+        "count": 1
       }
     ],
     "commenters": []
