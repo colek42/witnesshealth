@@ -63,11 +63,11 @@
     "totalComments": 7
   },
   {
-    "commenter": "jkjell",
-    "totalComments": 6
+    "commenter": "dependabot",
+    "totalComments": 7
   },
   {
-    "commenter": "dependabot",
+    "commenter": "jkjell",
     "totalComments": 6
   },
   {
@@ -198,7 +198,12 @@
     "prNumber": 556,
     "author": "app/dependabot",
     "reviewers": [],
-    "commenters": []
+    "commenters": [
+      {
+        "commenter": "dependabot",
+        "count": 1
+      }
+    ]
   },
   {
     "prNumber": 555,
