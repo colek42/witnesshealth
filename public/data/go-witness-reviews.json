@@ -48,7 +48,7 @@
     "commenterStats": [
   {
     "commenter": "colek42",
-    "totalComments": 16
+    "totalComments": 19
   },
   {
     "commenter": "jkjell",
@@ -708,7 +708,7 @@
     "commenters": [
       {
         "commenter": "colek42",
-        "count": 1
+        "count": 2
       },
       {
         "commenter": "matglas",
@@ -734,6 +734,10 @@
       }
     ],
     "commenters": [
+      {
+        "commenter": "colek42",
+        "count": 1
+      },
       {
         "commenter": "matglas",
         "count": 1
@@ -1963,7 +1967,7 @@
       },
       {
         "commenter": "colek42",
-        "count": 2
+        "count": 3
       },
       {
         "commenter": "matglas",

@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 159
+    "totalReviews": 155
   },
   {
     "reviewer": "mikhailswift",
@@ -17,10 +17,6 @@
     "totalReviews": 10
   },
   {
-    "reviewer": "codeaucafe",
-    "totalReviews": 7
-  },
-  {
     "reviewer": "kairoaraujo",
     "totalReviews": 6
   },
@@ -30,7 +26,7 @@
   },
   {
     "reviewer": "colek42",
-    "totalReviews": 4
+    "totalReviews": 5
   },
   {
     "reviewer": "rrey",
@@ -76,7 +72,7 @@
   },
   {
     "commenter": "manzil-infinity180",
-    "totalComments": 6
+    "totalComments": 7
   },
   {
     "commenter": "ChaosInTheCRD",
@@ -89,10 +85,6 @@
   {
     "commenter": "adityasaky",
     "totalComments": 3
-  },
-  {
-    "commenter": "codeaucafe",
-    "totalComments": 2
   },
   {
     "commenter": "Keerthi421",
@@ -129,9 +121,29 @@
 ],
     "prReviews": [
   {
+    "prNumber": 665,
+    "author": "manzil-infinity180",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "manzil-infinity180",
+        "count": 1
+      },
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
+  {
     "prNumber": 664,
     "author": "app/dependabot",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "colek42",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "netlify",
@@ -3525,30 +3537,6 @@
       {
         "commenter": "jkjell",
         "count": 1
-      },
-      {
-        "commenter": "netlify",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 441,
-    "author": "codeaucafe",
-    "reviewers": [
-      {
-        "reviewer": "codeaucafe",
-        "count": 7
-      },
-      {
-        "reviewer": "jkjell",
-        "count": 4
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "codeaucafe",
-        "count": 2
       },
       {
         "commenter": "netlify",
