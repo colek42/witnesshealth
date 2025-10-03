@@ -60,7 +60,7 @@
   },
   {
     "commenter": "jkjell",
-    "totalComments": 16
+    "totalComments": 15
   },
   {
     "commenter": "mikhailswift",
@@ -75,15 +75,15 @@
     "totalComments": 7
   },
   {
-    "commenter": "ChaosInTheCRD",
-    "totalComments": 5
-  },
-  {
     "commenter": "rabajaj0509",
     "totalComments": 3
   },
   {
     "commenter": "adityasaky",
+    "totalComments": 3
+  },
+  {
+    "commenter": "ChaosInTheCRD",
     "totalComments": 3
   },
   {
@@ -120,6 +120,17 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 666,
+    "author": "PreistlyPython",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
   {
     "prNumber": 665,
     "author": "manzil-infinity180",
@@ -3517,25 +3528,6 @@
     "commenters": [
       {
         "commenter": "colek42",
-        "count": 1
-      },
-      {
-        "commenter": "netlify",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 442,
-    "author": "ChaosInTheCRD",
-    "reviewers": [],
-    "commenters": [
-      {
-        "commenter": "ChaosInTheCRD",
-        "count": 2
-      },
-      {
-        "commenter": "jkjell",
         "count": 1
       },
       {

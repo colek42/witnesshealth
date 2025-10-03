@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 151
+    "totalReviews": 150
   },
   {
     "reviewer": "colek42",
@@ -48,7 +48,7 @@
     "commenterStats": [
   {
     "commenter": "colek42",
-    "totalComments": 19
+    "totalComments": 20
   },
   {
     "commenter": "jkjell",
@@ -84,6 +84,17 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 568,
+    "author": "kriscoleman",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "colek42",
+        "count": 1
+      }
+    ]
+  },
   {
     "prNumber": 567,
     "author": "app/dependabot",
@@ -2466,17 +2477,6 @@
   },
   {
     "prNumber": 363,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 362,
     "author": "app/dependabot",
     "reviewers": [
       {
