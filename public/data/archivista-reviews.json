@@ -6,7 +6,7 @@
   },
   {
     "reviewer": "kairoaraujo",
-    "totalReviews": 46
+    "totalReviews": 45
   },
   {
     "reviewer": "mikhailswift",
@@ -18,7 +18,7 @@
   },
   {
     "reviewer": "colek42",
-    "totalReviews": 2
+    "totalReviews": 3
   },
   {
     "reviewer": "hibare",
@@ -60,6 +60,17 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 635,
+    "author": "app/dependabot",
+    "reviewers": [
+      {
+        "reviewer": "colek42",
+        "count": 1
+      }
+    ],
+    "commenters": []
+  },
   {
     "prNumber": 634,
     "author": "app/dependabot",
@@ -2360,17 +2371,6 @@
   },
   {
     "prNumber": 430,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "kairoaraujo",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 429,
     "author": "app/dependabot",
     "reviewers": [
       {
