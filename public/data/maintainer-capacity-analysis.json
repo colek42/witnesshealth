@@ -1,5 +1,5 @@
 {
-  "generated": "2025-10-07T00:21:30.777Z",
+  "generated": "2025-10-08T00:22:43.348Z",
   "topMaintainers": [
     {
       "name": "mikhailswift",
@@ -352,6 +352,27 @@
       }
     },
     {
+      "name": "manzil-infinity180",
+      "totalPRs": 16,
+      "firstPR": "2025-09-02T13:57:39Z",
+      "lastPR": "2025-10-07T20:28:57Z",
+      "avgMonthlyPRs": "5.3",
+      "maxMonthlyPRs": 10,
+      "recentAvg": "5.3",
+      "trend": "stable",
+      "gaps": [],
+      "longestGap": 0,
+      "repoActivity": {
+        "witness": 15,
+        "go-witness": 1
+      },
+      "monthlyActivity": {
+        "2025-10": 2,
+        "2025-09": 4,
+        "2025-08": 10
+      }
+    },
+    {
       "name": "fkautz",
       "totalPRs": 16,
       "firstPR": "2022-06-20T20:34:36Z",
@@ -415,27 +436,6 @@
         "2022-08": 4,
         "2022-07": 1,
         "2022-06": 1
-      }
-    },
-    {
-      "name": "manzil-infinity180",
-      "totalPRs": 15,
-      "firstPR": "2025-09-02T13:57:39Z",
-      "lastPR": "2025-10-06T22:28:04Z",
-      "avgMonthlyPRs": "5.0",
-      "maxMonthlyPRs": 10,
-      "recentAvg": "5.0",
-      "trend": "stable",
-      "gaps": [],
-      "longestGap": 0,
-      "repoActivity": {
-        "witness": 14,
-        "go-witness": 1
-      },
-      "monthlyActivity": {
-        "2025-10": 1,
-        "2025-09": 4,
-        "2025-08": 10
       }
     }
   ],
