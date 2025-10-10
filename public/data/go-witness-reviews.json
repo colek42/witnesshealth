@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 147
+    "totalReviews": 148
   },
   {
     "reviewer": "colek42",
@@ -10,7 +10,7 @@
   },
   {
     "reviewer": "mikhailswift",
-    "totalReviews": 28
+    "totalReviews": 30
   },
   {
     "reviewer": "ChaosInTheCRD",
@@ -485,7 +485,16 @@
   {
     "prNumber": 540,
     "author": "app/dependabot",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      },
+      {
+        "reviewer": "mikhailswift",
+        "count": 2
+      }
+    ],
     "commenters": []
   },
   {
