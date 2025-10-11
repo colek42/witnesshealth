@@ -10,7 +10,7 @@
   },
   {
     "reviewer": "mikhailswift",
-    "totalReviews": 8
+    "totalReviews": 7
   },
   {
     "reviewer": "kriscoleman",
@@ -55,11 +55,26 @@
     "totalComments": 1
   },
   {
+    "commenter": "manzil-infinity180",
+    "totalComments": 1
+  },
+  {
     "commenter": "hibare",
     "totalComments": 1
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 639,
+    "author": "manzil-infinity180",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "manzil-infinity180",
+        "count": 1
+      }
+    ]
+  },
   {
     "prNumber": 638,
     "author": "app/dependabot",
@@ -2364,17 +2379,6 @@
     "reviewers": [
       {
         "reviewer": "kairoaraujo",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 433,
-    "author": "jkjell",
-    "reviewers": [
-      {
-        "reviewer": "mikhailswift",
         "count": 1
       }
     ],
