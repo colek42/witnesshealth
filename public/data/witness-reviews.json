@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 154
+    "totalReviews": 153
   },
   {
     "reviewer": "mikhailswift",
@@ -120,6 +120,17 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 670,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
   {
     "prNumber": 669,
     "author": "manzil-infinity180",
@@ -3521,22 +3532,6 @@
   {
     "prNumber": 445,
     "author": "ChaosInTheCRD",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "netlify",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 444,
-    "author": "app/dependabot",
     "reviewers": [
       {
         "reviewer": "jkjell",
