@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 143
+    "totalReviews": 146
   },
   {
     "reviewer": "kairoaraujo",
@@ -36,7 +36,7 @@
   },
   {
     "commenter": "codecov",
-    "totalComments": 5
+    "totalComments": 7
   },
   {
     "commenter": "kriscoleman",
@@ -65,28 +65,63 @@
 ],
     "prReviews": [
   {
+    "prNumber": 643,
+    "author": "app/dependabot",
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
+    "commenters": []
+  },
+  {
     "prNumber": 642,
     "author": "app/dependabot",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
     "commenters": []
   },
   {
     "prNumber": 641,
     "author": "app/dependabot",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
     "commenters": []
   },
   {
     "prNumber": 640,
     "author": "manzil-infinity180",
-    "reviewers": [],
-    "commenters": []
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
+    "commenters": [
+      {
+        "commenter": "codecov",
+        "count": 1
+      }
+    ]
   },
   {
     "prNumber": 639,
     "author": "manzil-infinity180",
     "reviewers": [],
     "commenters": [
+      {
+        "commenter": "codecov",
+        "count": 1
+      },
       {
         "commenter": "manzil-infinity180",
         "count": 1
@@ -2353,17 +2388,6 @@
     "reviewers": [
       {
         "reviewer": "kairoaraujo",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 437,
-    "author": "app/github-actions",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
         "count": 1
       }
     ],

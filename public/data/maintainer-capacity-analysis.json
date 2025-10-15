@@ -1,5 +1,5 @@
 {
-  "generated": "2025-10-14T00:22:12.400Z",
+  "generated": "2025-10-15T00:22:00.535Z",
   "topMaintainers": [
     {
       "name": "mikhailswift",
@@ -89,13 +89,13 @@
     },
     {
       "name": "jkjell",
-      "totalPRs": 68,
+      "totalPRs": 70,
       "firstPR": "2023-09-21T20:25:51Z",
-      "lastPR": "2025-04-04T10:16:49Z",
-      "avgMonthlyPRs": "4.5",
+      "lastPR": "2025-10-14T19:36:17Z",
+      "avgMonthlyPRs": "4.4",
       "maxMonthlyPRs": 10,
-      "recentAvg": "2.0",
-      "trend": "decreasing significantly",
+      "recentAvg": "2.3",
+      "trend": "decreasing",
       "gaps": [
         {
           "start": "2024-03",
@@ -116,15 +116,21 @@
           "start": "2024-12",
           "end": "2025-02",
           "duration": 1
+        },
+        {
+          "start": "2025-05",
+          "end": "2025-10",
+          "duration": 4
         }
       ],
-      "longestGap": 3,
+      "longestGap": 4,
       "repoActivity": {
-        "witness": 22,
-        "go-witness": 23,
+        "witness": 23,
+        "go-witness": 24,
         "archivista": 23
       },
       "monthlyActivity": {
+        "2025-10": 2,
         "2025-04": 3,
         "2024-12": 7,
         "2024-06": 10,
@@ -301,6 +307,28 @@
       }
     },
     {
+      "name": "manzil-infinity180",
+      "totalPRs": 17,
+      "firstPR": "2025-10-14T18:49:44Z",
+      "lastPR": "2025-10-07T20:28:57Z",
+      "avgMonthlyPRs": "5.7",
+      "maxMonthlyPRs": 10,
+      "recentAvg": "5.7",
+      "trend": "stable",
+      "gaps": [],
+      "longestGap": 0,
+      "repoActivity": {
+        "witness": 15,
+        "go-witness": 1,
+        "archivista": 1
+      },
+      "monthlyActivity": {
+        "2025-10": 3,
+        "2025-09": 4,
+        "2025-08": 10
+      }
+    },
+    {
       "name": "matglas",
       "totalPRs": 17,
       "firstPR": "2024-04-23T17:59:44Z",
@@ -349,27 +377,6 @@
         "2024-08": 1,
         "2024-05": 3,
         "2024-04": 1
-      }
-    },
-    {
-      "name": "manzil-infinity180",
-      "totalPRs": 16,
-      "firstPR": "2025-09-02T13:57:39Z",
-      "lastPR": "2025-10-07T20:28:57Z",
-      "avgMonthlyPRs": "5.3",
-      "maxMonthlyPRs": 10,
-      "recentAvg": "5.3",
-      "trend": "stable",
-      "gaps": [],
-      "longestGap": 0,
-      "repoActivity": {
-        "witness": 15,
-        "go-witness": 1
-      },
-      "monthlyActivity": {
-        "2025-10": 2,
-        "2025-09": 4,
-        "2025-08": 10
       }
     },
     {
@@ -492,8 +499,8 @@
     {
       "name": "jkjell",
       "factors": [
-        "Activity decreasing significantly",
-        "Had 3-month gap"
+        "Activity decreasing",
+        "Had 4-month gap"
       ]
     },
     {
