@@ -13,11 +13,11 @@
     "totalReviews": 7
   },
   {
-    "reviewer": "kriscoleman",
-    "totalReviews": 3
+    "reviewer": "colek42",
+    "totalReviews": 5
   },
   {
-    "reviewer": "colek42",
+    "reviewer": "kriscoleman",
     "totalReviews": 3
   },
   {
@@ -67,7 +67,12 @@
   {
     "prNumber": 646,
     "author": "jkjell",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "colek42",
+        "count": 2
+      }
+    ],
     "commenters": []
   },
   {
