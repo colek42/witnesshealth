@@ -2,11 +2,11 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 143
+    "totalReviews": 137
   },
   {
     "reviewer": "colek42",
-    "totalReviews": 39
+    "totalReviews": 43
   },
   {
     "reviewer": "mikhailswift",
@@ -41,6 +41,10 @@
     "totalReviews": 1
   },
   {
+    "reviewer": "copilot-pull-request-reviewer",
+    "totalReviews": 1
+  },
+  {
     "reviewer": "SantiagoTorres",
     "totalReviews": 1
   },
@@ -52,7 +56,7 @@
     "commenterStats": [
   {
     "commenter": "colek42",
-    "totalComments": 26
+    "totalComments": 27
   },
   {
     "commenter": "jkjell",
@@ -79,12 +83,12 @@
     "totalComments": 3
   },
   {
-    "commenter": "fkautz",
+    "commenter": "manzil-infinity180",
     "totalComments": 2
   },
   {
-    "commenter": "manzil-infinity180",
-    "totalComments": 1
+    "commenter": "fkautz",
+    "totalComments": 2
   },
   {
     "commenter": "jondkent",
@@ -93,15 +97,69 @@
 ],
     "prReviews": [
   {
-    "prNumber": 584,
-    "author": "manzil-infinity180",
+    "prNumber": 594,
+    "author": "colek42",
+    "reviewers": [
+      {
+        "reviewer": "colek42",
+        "count": 2
+      },
+      {
+        "reviewer": "copilot-pull-request-reviewer",
+        "count": 1
+      }
+    ],
+    "commenters": []
+  },
+  {
+    "prNumber": 593,
+    "author": "app/copilot-swe-agent",
     "reviewers": [],
     "commenters": []
   },
   {
+    "prNumber": 587,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
+  {
+    "prNumber": 586,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
+  {
+    "prNumber": 585,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
+  {
+    "prNumber": 584,
+    "author": "manzil-infinity180",
+    "reviewers": [
+      {
+        "reviewer": "colek42",
+        "count": 1
+      }
+    ],
+    "commenters": [
+      {
+        "commenter": "colek42",
+        "count": 1
+      }
+    ]
+  },
+  {
     "prNumber": 583,
     "author": "manzil-infinity180",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "colek42",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "colek42",
@@ -109,7 +167,7 @@
       },
       {
         "commenter": "manzil-infinity180",
-        "count": 1
+        "count": 2
       }
     ]
   },
@@ -2478,61 +2536,6 @@
       {
         "reviewer": "jkjell",
         "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 383,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 382,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 381,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 380,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 379,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 2
       }
     ],
     "commenters": []
