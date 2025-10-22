@@ -14,18 +14,18 @@
   },
   {
     "reviewer": "matglas",
-    "totalReviews": 10
+    "totalReviews": 9
   },
   {
     "reviewer": "colek42",
     "totalReviews": 7
   },
   {
-    "reviewer": "kairoaraujo",
-    "totalReviews": 6
+    "reviewer": "manzil-infinity180",
+    "totalReviews": 5
   },
   {
-    "reviewer": "manzil-infinity180",
+    "reviewer": "kairoaraujo",
     "totalReviews": 5
   },
   {
@@ -83,11 +83,11 @@
     "totalComments": 3
   },
   {
-    "commenter": "ChaosInTheCRD",
-    "totalComments": 3
+    "commenter": "Keerthi421",
+    "totalComments": 2
   },
   {
-    "commenter": "Keerthi421",
+    "commenter": "ChaosInTheCRD",
     "totalComments": 2
   },
   {
@@ -116,6 +116,17 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 677,
+    "author": "manzil-infinity180",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
   {
     "prNumber": 676,
     "author": "manzil-infinity180",
@@ -3495,30 +3506,6 @@
     "commenters": [
       {
         "commenter": "jkjell",
-        "count": 1
-      },
-      {
-        "commenter": "netlify",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 453,
-    "author": "DarikshaAnsari",
-    "reviewers": [
-      {
-        "reviewer": "kairoaraujo",
-        "count": 1
-      },
-      {
-        "reviewer": "matglas",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "ChaosInTheCRD",
         "count": 1
       },
       {
