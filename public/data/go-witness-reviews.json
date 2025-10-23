@@ -56,7 +56,7 @@
     "commenterStats": [
   {
     "commenter": "colek42",
-    "totalComments": 27
+    "totalComments": 28
   },
   {
     "commenter": "jkjell",
@@ -109,7 +109,12 @@
         "count": 1
       }
     ],
-    "commenters": []
+    "commenters": [
+      {
+        "commenter": "colek42",
+        "count": 1
+      }
+    ]
   },
   {
     "prNumber": 593,
