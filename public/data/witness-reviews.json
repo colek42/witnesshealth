@@ -6,7 +6,7 @@
   },
   {
     "reviewer": "mikhailswift",
-    "totalReviews": 26
+    "totalReviews": 25
   },
   {
     "reviewer": "ChaosInTheCRD",
@@ -18,7 +18,7 @@
   },
   {
     "reviewer": "colek42",
-    "totalReviews": 7
+    "totalReviews": 9
   },
   {
     "reviewer": "manzil-infinity180",
@@ -56,22 +56,22 @@
   },
   {
     "commenter": "colek42",
-    "totalComments": 21
+    "totalComments": 22
   },
   {
     "commenter": "jkjell",
-    "totalComments": 15
+    "totalComments": 14
   },
   {
     "commenter": "mikhailswift",
     "totalComments": 12
   },
   {
-    "commenter": "matglas",
-    "totalComments": 9
+    "commenter": "manzil-infinity180",
+    "totalComments": 10
   },
   {
-    "commenter": "manzil-infinity180",
+    "commenter": "matglas",
     "totalComments": 9
   },
   {
@@ -117,9 +117,29 @@
 ],
     "prReviews": [
   {
+    "prNumber": 678,
+    "author": "colek42",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "colek42",
+        "count": 1
+      },
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
+  {
     "prNumber": 677,
     "author": "manzil-infinity180",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "colek42",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "netlify",
@@ -132,6 +152,10 @@
     "author": "manzil-infinity180",
     "reviewers": [],
     "commenters": [
+      {
+        "commenter": "manzil-infinity180",
+        "count": 1
+      },
       {
         "commenter": "netlify",
         "count": 1
@@ -152,7 +176,12 @@
   {
     "prNumber": 673,
     "author": "manzil-infinity180",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "colek42",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "netlify",
@@ -3488,26 +3517,6 @@
       }
     ],
     "commenters": [
-      {
-        "commenter": "netlify",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 454,
-    "author": "jkjell",
-    "reviewers": [
-      {
-        "reviewer": "mikhailswift",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "jkjell",
-        "count": 1
-      },
       {
         "commenter": "netlify",
         "count": 1
