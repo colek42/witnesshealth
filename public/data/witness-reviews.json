@@ -68,7 +68,7 @@
   },
   {
     "commenter": "manzil-infinity180",
-    "totalComments": 10
+    "totalComments": 12
   },
   {
     "commenter": "matglas",
@@ -123,6 +123,10 @@
     "commenters": [
       {
         "commenter": "colek42",
+        "count": 1
+      },
+      {
+        "commenter": "manzil-infinity180",
         "count": 1
       },
       {
@@ -372,7 +376,7 @@
       },
       {
         "commenter": "manzil-infinity180",
-        "count": 2
+        "count": 3
       },
       {
         "commenter": "netlify",

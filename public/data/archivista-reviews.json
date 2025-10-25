@@ -21,7 +21,15 @@
     "totalReviews": 3
   },
   {
+    "reviewer": "manzil-infinity180",
+    "totalReviews": 2
+  },
+  {
     "reviewer": "hibare",
+    "totalReviews": 1
+  },
+  {
+    "reviewer": "fkautz",
     "totalReviews": 1
   }
 ],
@@ -47,6 +55,10 @@
     "totalComments": 3
   },
   {
+    "commenter": "manzil-infinity180",
+    "totalComments": 2
+  },
+  {
     "commenter": "kriscoleman",
     "totalComments": 2
   },
@@ -56,10 +68,6 @@
   },
   {
     "commenter": "mikhailswift",
-    "totalComments": 1
-  },
-  {
-    "commenter": "manzil-infinity180",
     "totalComments": 1
   },
   {
@@ -74,6 +82,10 @@
     "reviewers": [
       {
         "reviewer": "colek42",
+        "count": 1
+      },
+      {
+        "reviewer": "fkautz",
         "count": 1
       }
     ],
@@ -206,7 +218,7 @@
       },
       {
         "commenter": "manzil-infinity180",
-        "count": 1
+        "count": 2
       }
     ]
   },
@@ -1032,6 +1044,10 @@
       {
         "reviewer": "kairoaraujo",
         "count": 1
+      },
+      {
+        "reviewer": "manzil-infinity180",
+        "count": 2
       }
     ],
     "commenters": [
