@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 147
+    "totalReviews": 145
   },
   {
     "reviewer": "mikhailswift",
@@ -13,10 +13,6 @@
     "totalReviews": 11
   },
   {
-    "reviewer": "matglas",
-    "totalReviews": 9
-  },
-  {
     "reviewer": "colek42",
     "totalReviews": 9
   },
@@ -25,12 +21,12 @@
     "totalReviews": 6
   },
   {
-    "reviewer": "kairoaraujo",
+    "reviewer": "matglas",
     "totalReviews": 5
   },
   {
-    "reviewer": "rrey",
-    "totalReviews": 3
+    "reviewer": "kairoaraujo",
+    "totalReviews": 5
   },
   {
     "reviewer": "kriscoleman",
@@ -52,7 +48,7 @@
   },
   {
     "commenter": "dependabot",
-    "totalComments": 23
+    "totalComments": 24
   },
   {
     "commenter": "colek42",
@@ -95,10 +91,6 @@
     "totalComments": 1
   },
   {
-    "commenter": "rrey",
-    "totalComments": 1
-  },
-  {
     "commenter": "patzielinski",
     "totalComments": 1
   },
@@ -116,6 +108,28 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 681,
+    "author": "manzil-infinity180",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "prNumber": 680,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
   {
     "prNumber": 679,
     "author": "manzil-infinity180",
@@ -187,6 +201,10 @@
     "author": "app/dependabot",
     "reviewers": [],
     "commenters": [
+      {
+        "commenter": "dependabot",
+        "count": 1
+      },
       {
         "commenter": "netlify",
         "count": 1
@@ -3479,50 +3497,6 @@
       },
       {
         "commenter": "netlify",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 457,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "netlify",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 456,
-    "author": "rrey",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      },
-      {
-        "reviewer": "matglas",
-        "count": 4
-      },
-      {
-        "reviewer": "rrey",
-        "count": 3
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "netlify",
-        "count": 1
-      },
-      {
-        "commenter": "rrey",
         "count": 1
       }
     ]

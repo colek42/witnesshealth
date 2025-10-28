@@ -2,11 +2,11 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 136
+    "totalReviews": 135
   },
   {
     "reviewer": "colek42",
-    "totalReviews": 43
+    "totalReviews": 45
   },
   {
     "reviewer": "mikhailswift",
@@ -60,7 +60,7 @@
     "commenterStats": [
   {
     "commenter": "colek42",
-    "totalComments": 29
+    "totalComments": 30
   },
   {
     "commenter": "jkjell",
@@ -101,9 +101,32 @@
 ],
     "prReviews": [
   {
+    "prNumber": 601,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
+  {
+    "prNumber": 600,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
+  {
+    "prNumber": 599,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
+  {
     "prNumber": 597,
     "author": "manzil-infinity180",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "colek42",
+        "count": 1
+      }
+    ],
     "commenters": []
   },
   {
@@ -122,7 +145,7 @@
     "commenters": [
       {
         "commenter": "colek42",
-        "count": 2
+        "count": 3
       }
     ]
   },
@@ -136,7 +159,12 @@
     "prNumber": 587,
     "author": "app/dependabot",
     "reviewers": [],
-    "commenters": []
+    "commenters": [
+      {
+        "commenter": "dependabot",
+        "count": 1
+      }
+    ]
   },
   {
     "prNumber": 586,
@@ -156,7 +184,7 @@
     "reviewers": [
       {
         "reviewer": "colek42",
-        "count": 1
+        "count": 2
       },
       {
         "reviewer": "manzil-infinity180",
@@ -2522,34 +2550,6 @@
         "count": 1
       }
     ],
-    "commenters": []
-  },
-  {
-    "prNumber": 387,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 386,
-    "author": "app/dependabot",
-    "reviewers": [],
-    "commenters": [
-      {
-        "commenter": "dependabot",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 385,
-    "author": "colek42",
-    "reviewers": [],
     "commenters": []
   }
 ]
