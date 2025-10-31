@@ -1,5 +1,5 @@
 {
-  "generated": "2025-10-30T00:24:41.713Z",
+  "generated": "2025-10-31T00:22:33.231Z",
   "topMaintainers": [
     {
       "name": "mikhailswift",
@@ -89,12 +89,12 @@
     },
     {
       "name": "jkjell",
-      "totalPRs": 72,
+      "totalPRs": 73,
       "firstPR": "2023-09-21T20:25:51Z",
       "lastPR": "2025-10-15T18:02:34Z",
-      "avgMonthlyPRs": "4.5",
+      "avgMonthlyPRs": "4.6",
       "maxMonthlyPRs": 10,
-      "recentAvg": "3.0",
+      "recentAvg": "3.3",
       "trend": "decreasing",
       "gaps": [
         {
@@ -127,10 +127,10 @@
       "repoActivity": {
         "witness": 24,
         "go-witness": 25,
-        "archivista": 23
+        "archivista": 24
       },
       "monthlyActivity": {
-        "2025-10": 4,
+        "2025-10": 5,
         "2025-04": 3,
         "2024-12": 7,
         "2024-06": 10,

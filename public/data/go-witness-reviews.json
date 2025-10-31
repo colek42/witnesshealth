@@ -37,11 +37,11 @@
     "totalReviews": 3
   },
   {
-    "reviewer": "mswift-test",
-    "totalReviews": 1
+    "reviewer": "manzil-infinity180",
+    "totalReviews": 2
   },
   {
-    "reviewer": "manzil-infinity180",
+    "reviewer": "mswift-test",
     "totalReviews": 1
   },
   {
@@ -229,7 +229,7 @@
       },
       {
         "reviewer": "manzil-infinity180",
-        "count": 1
+        "count": 2
       }
     ],
     "commenters": [
