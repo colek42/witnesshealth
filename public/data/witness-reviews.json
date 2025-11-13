@@ -9,12 +9,12 @@
     "totalReviews": 25
   },
   {
-    "reviewer": "ChaosInTheCRD",
-    "totalReviews": 11
+    "reviewer": "colek42",
+    "totalReviews": 13
   },
   {
-    "reviewer": "colek42",
-    "totalReviews": 9
+    "reviewer": "ChaosInTheCRD",
+    "totalReviews": 11
   },
   {
     "reviewer": "manzil-infinity180",
@@ -144,7 +144,12 @@
   {
     "prNumber": 681,
     "author": "manzil-infinity180",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "colek42",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "manzil-infinity180",
@@ -180,6 +185,10 @@
     "prNumber": 679,
     "author": "manzil-infinity180",
     "reviewers": [
+      {
+        "reviewer": "colek42",
+        "count": 1
+      },
       {
         "reviewer": "manzil-infinity180",
         "count": 1
@@ -217,7 +226,7 @@
     "reviewers": [
       {
         "reviewer": "colek42",
-        "count": 1
+        "count": 2
       }
     ],
     "commenters": [
@@ -230,7 +239,12 @@
   {
     "prNumber": 676,
     "author": "manzil-infinity180",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "colek42",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "netlify",
