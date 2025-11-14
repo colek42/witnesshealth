@@ -10,11 +10,11 @@
   },
   {
     "reviewer": "mikhailswift",
-    "totalReviews": 33
+    "totalReviews": 32
   },
   {
     "reviewer": "ChaosInTheCRD",
-    "totalReviews": 27
+    "totalReviews": 26
   },
   {
     "reviewer": "matglas",
@@ -100,6 +100,12 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 608,
+    "author": "manzil-infinity180",
+    "reviewers": [],
+    "commenters": []
+  },
   {
     "prNumber": 607,
     "author": "app/dependabot",
@@ -2537,21 +2543,6 @@
     "reviewers": [
       {
         "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 394,
-    "author": "jkjell",
-    "reviewers": [
-      {
-        "reviewer": "ChaosInTheCRD",
-        "count": 1
-      },
-      {
-        "reviewer": "mikhailswift",
         "count": 1
       }
     ],
