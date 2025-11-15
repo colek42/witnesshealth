@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 144
+    "totalReviews": 143
   },
   {
     "reviewer": "kairoaraujo",
@@ -44,19 +44,19 @@
   },
   {
     "commenter": "codecov",
-    "totalComments": 7
+    "totalComments": 8
   },
   {
     "commenter": "colek42",
     "totalComments": 6
   },
   {
-    "commenter": "bradbeck",
+    "commenter": "manzil-infinity180",
     "totalComments": 3
   },
   {
-    "commenter": "manzil-infinity180",
-    "totalComments": 2
+    "commenter": "bradbeck",
+    "totalComments": 3
   },
   {
     "commenter": "kriscoleman",
@@ -76,6 +76,21 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 669,
+    "author": "manzil-infinity180",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "codecov",
+        "count": 1
+      },
+      {
+        "commenter": "manzil-infinity180",
+        "count": 1
+      }
+    ]
+  },
   {
     "prNumber": 668,
     "author": "app/dependabot",
@@ -2358,17 +2373,6 @@
     "reviewers": [
       {
         "reviewer": "kairoaraujo",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 463,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
         "count": 1
       }
     ],

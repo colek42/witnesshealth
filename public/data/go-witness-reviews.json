@@ -6,7 +6,7 @@
   },
   {
     "reviewer": "colek42",
-    "totalReviews": 47
+    "totalReviews": 48
   },
   {
     "reviewer": "mikhailswift",
@@ -103,7 +103,12 @@
   {
     "prNumber": 608,
     "author": "manzil-infinity180",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "colek42",
+        "count": 1
+      }
+    ],
     "commenters": []
   },
   {
