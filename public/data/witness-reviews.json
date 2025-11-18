@@ -48,7 +48,7 @@
   },
   {
     "commenter": "dependabot",
-    "totalComments": 25
+    "totalComments": 27
   },
   {
     "commenter": "colek42",
@@ -110,6 +110,10 @@
     "reviewers": [],
     "commenters": [
       {
+        "commenter": "dependabot",
+        "count": 1
+      },
+      {
         "commenter": "netlify",
         "count": 1
       }
@@ -120,6 +124,10 @@
     "author": "app/dependabot",
     "reviewers": [],
     "commenters": [
+      {
+        "commenter": "dependabot",
+        "count": 1
+      },
       {
         "commenter": "netlify",
         "count": 1
