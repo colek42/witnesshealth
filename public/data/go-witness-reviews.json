@@ -41,11 +41,11 @@
     "totalReviews": 2
   },
   {
-    "reviewer": "mswift-test",
-    "totalReviews": 1
+    "reviewer": "copilot-pull-request-reviewer",
+    "totalReviews": 2
   },
   {
-    "reviewer": "copilot-pull-request-reviewer",
+    "reviewer": "mswift-test",
     "totalReviews": 1
   },
   {
@@ -103,7 +103,12 @@
   {
     "prNumber": 612,
     "author": "manzil-infinity180",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "copilot-pull-request-reviewer",
+        "count": 1
+      }
+    ],
     "commenters": []
   },
   {
