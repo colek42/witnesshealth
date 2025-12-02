@@ -77,10 +77,21 @@
 ],
     "prReviews": [
   {
-    "prNumber": 672,
+    "prNumber": 673,
     "author": "app/dependabot",
     "reviewers": [],
     "commenters": []
+  },
+  {
+    "prNumber": 672,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "dependabot",
+        "count": 1
+      }
+    ]
   },
   {
     "prNumber": 671,
@@ -2365,17 +2376,6 @@
       }
     ],
     "commenters": []
-  },
-  {
-    "prNumber": 467,
-    "author": "app/dependabot",
-    "reviewers": [],
-    "commenters": [
-      {
-        "commenter": "dependabot",
-        "count": 1
-      }
-    ]
   }
 ]
 }

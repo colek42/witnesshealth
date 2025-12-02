@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 131
+    "totalReviews": 130
   },
   {
     "reviewer": "colek42",
@@ -100,6 +100,12 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 613,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
   {
     "prNumber": 612,
     "author": "manzil-infinity180",
@@ -2523,17 +2529,6 @@
   },
   {
     "prNumber": 400,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 399,
     "author": "app/dependabot",
     "reviewers": [
       {
