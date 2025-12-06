@@ -6,7 +6,7 @@
   },
   {
     "reviewer": "colek42",
-    "totalReviews": 48
+    "totalReviews": 49
   },
   {
     "reviewer": "mikhailswift",
@@ -103,7 +103,12 @@
   {
     "prNumber": 614,
     "author": "fkautz",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "colek42",
+        "count": 1
+      }
+    ],
     "commenters": []
   },
   {
