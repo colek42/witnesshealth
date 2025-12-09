@@ -55,12 +55,12 @@
     "totalComments": 22
   },
   {
-    "commenter": "jkjell",
+    "commenter": "manzil-infinity180",
     "totalComments": 14
   },
   {
-    "commenter": "manzil-infinity180",
-    "totalComments": 13
+    "commenter": "jkjell",
+    "totalComments": 14
   },
   {
     "commenter": "mikhailswift",
@@ -104,6 +104,38 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 694,
+    "author": "app/dependabot",
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "prNumber": 693,
+    "author": "app/dependabot",
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
   {
     "prNumber": 692,
     "author": "app/dependabot",
@@ -352,6 +384,10 @@
       }
     ],
     "commenters": [
+      {
+        "commenter": "manzil-infinity180",
+        "count": 1
+      },
       {
         "commenter": "netlify",
         "count": 1
@@ -3465,38 +3501,6 @@
   },
   {
     "prNumber": 474,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "netlify",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 473,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "netlify",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 471,
     "author": "app/dependabot",
     "reviewers": [
       {

@@ -77,6 +77,28 @@
 ],
     "prReviews": [
   {
+    "prNumber": 680,
+    "author": "app/dependabot",
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
+    "commenters": []
+  },
+  {
+    "prNumber": 679,
+    "author": "app/github-actions",
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
+    "commenters": []
+  },
+  {
     "prNumber": 678,
     "author": "jkjell",
     "reviewers": [],
@@ -2397,28 +2419,6 @@
   },
   {
     "prNumber": 475,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 474,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 473,
     "author": "app/dependabot",
     "reviewers": [
       {
