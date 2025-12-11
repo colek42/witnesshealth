@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 145
+    "totalReviews": 144
   },
   {
     "reviewer": "mikhailswift",
@@ -52,18 +52,18 @@
   },
   {
     "commenter": "colek42",
-    "totalComments": 22
+    "totalComments": 21
   },
   {
     "commenter": "manzil-infinity180",
     "totalComments": 14
   },
   {
-    "commenter": "jkjell",
-    "totalComments": 14
+    "commenter": "mikhailswift",
+    "totalComments": 13
   },
   {
-    "commenter": "mikhailswift",
+    "commenter": "jkjell",
     "totalComments": 13
   },
   {
@@ -104,6 +104,28 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 698,
+    "author": "mrbobbytables",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "prNumber": 697,
+    "author": "manzil-infinity180",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
   {
     "prNumber": 696,
     "author": "jkjell",
@@ -3482,41 +3504,6 @@
       }
     ],
     "commenters": [
-      {
-        "commenter": "netlify",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 476,
-    "author": "ericwyles",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "jkjell",
-        "count": 1
-      },
-      {
-        "commenter": "netlify",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 475,
-    "author": "ChaosInTheCRD",
-    "reviewers": [],
-    "commenters": [
-      {
-        "commenter": "colek42",
-        "count": 1
-      },
       {
         "commenter": "netlify",
         "count": 1

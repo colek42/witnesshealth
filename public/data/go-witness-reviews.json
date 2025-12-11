@@ -64,11 +64,11 @@
   },
   {
     "commenter": "jkjell",
-    "totalComments": 12
+    "totalComments": 11
   },
   {
     "commenter": "dependabot",
-    "totalComments": 7
+    "totalComments": 6
   },
   {
     "commenter": "mikhailswift",
@@ -100,6 +100,12 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 619,
+    "author": "mrbobbytables",
+    "reviewers": [],
+    "commenters": []
+  },
   {
     "prNumber": 618,
     "author": "app/dependabot",
@@ -2575,21 +2581,6 @@
       }
     ],
     "commenters": []
-  },
-  {
-    "prNumber": 405,
-    "author": "app/dependabot",
-    "reviewers": [],
-    "commenters": [
-      {
-        "commenter": "dependabot",
-        "count": 1
-      },
-      {
-        "commenter": "jkjell",
-        "count": 1
-      }
-    ]
   }
 ]
 }
