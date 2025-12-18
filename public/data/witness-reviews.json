@@ -56,7 +56,7 @@
   },
   {
     "commenter": "manzil-infinity180",
-    "totalComments": 14
+    "totalComments": 15
   },
   {
     "commenter": "mikhailswift",
@@ -136,6 +136,10 @@
     "author": "manzil-infinity180",
     "reviewers": [],
     "commenters": [
+      {
+        "commenter": "manzil-infinity180",
+        "count": 1
+      },
       {
         "commenter": "netlify",
         "count": 1
