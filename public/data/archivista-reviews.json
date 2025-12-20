@@ -6,7 +6,7 @@
   },
   {
     "reviewer": "kairoaraujo",
-    "totalReviews": 20
+    "totalReviews": 19
   },
   {
     "reviewer": "mikhailswift",
@@ -76,6 +76,12 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 686,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
   {
     "prNumber": 685,
     "author": "app/dependabot",
@@ -2407,17 +2413,6 @@
     "reviewers": [
       {
         "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 480,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "kairoaraujo",
         "count": 1
       }
     ],
