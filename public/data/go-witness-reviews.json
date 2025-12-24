@@ -17,15 +17,15 @@
     "totalReviews": 16
   },
   {
+    "reviewer": "fkautz",
+    "totalReviews": 6
+  },
+  {
     "reviewer": "matglas",
     "totalReviews": 5
   },
   {
     "reviewer": "kriscoleman",
-    "totalReviews": 5
-  },
-  {
-    "reviewer": "fkautz",
     "totalReviews": 5
   },
   {
@@ -238,6 +238,10 @@
     "reviewers": [
       {
         "reviewer": "colek42",
+        "count": 1
+      },
+      {
+        "reviewer": "fkautz",
         "count": 1
       },
       {
