@@ -49,6 +49,10 @@
     "totalReviews": 1
   },
   {
+    "reviewer": "Vyom-Yadav",
+    "totalReviews": 1
+  },
+  {
     "reviewer": "SantiagoTorres",
     "totalReviews": 1
   },
@@ -107,7 +111,12 @@
   {
     "prNumber": 627,
     "author": "Vyom-Yadav",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "Vyom-Yadav",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "Vyom-Yadav",
