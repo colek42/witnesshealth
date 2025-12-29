@@ -2,11 +2,11 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 143
+    "totalReviews": 142
   },
   {
     "reviewer": "colek42",
-    "totalReviews": 36
+    "totalReviews": 34
   },
   {
     "reviewer": "mikhailswift",
@@ -14,7 +14,7 @@
   },
   {
     "reviewer": "ChaosInTheCRD",
-    "totalReviews": 16
+    "totalReviews": 12
   },
   {
     "reviewer": "fkautz",
@@ -37,15 +37,15 @@
     "totalReviews": 2
   },
   {
-    "reviewer": "github-advanced-security",
-    "totalReviews": 2
-  },
-  {
     "reviewer": "copilot-pull-request-reviewer",
     "totalReviews": 2
   },
   {
     "reviewer": "mswift-test",
+    "totalReviews": 1
+  },
+  {
+    "reviewer": "github-advanced-security",
     "totalReviews": 1
   },
   {
@@ -87,6 +87,10 @@
     "totalComments": 3
   },
   {
+    "commenter": "Vyom-Yadav",
+    "totalComments": 3
+  },
+  {
     "commenter": "matglas",
     "totalComments": 2
   },
@@ -99,15 +103,41 @@
     "totalComments": 2
   },
   {
-    "commenter": "jondkent",
+    "commenter": "stupendoussuperpowers",
     "totalComments": 1
   },
   {
-    "commenter": "Vyom-Yadav",
+    "commenter": "jondkent",
     "totalComments": 1
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 629,
+    "author": "Vyom-Yadav",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "Vyom-Yadav",
+        "count": 1
+      },
+      {
+        "commenter": "stupendoussuperpowers",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "prNumber": 628,
+    "author": "Vyom-Yadav",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "Vyom-Yadav",
+        "count": 1
+      }
+    ]
+  },
   {
     "prNumber": 627,
     "author": "Vyom-Yadav",
@@ -2531,36 +2561,6 @@
     "reviewers": [
       {
         "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 417,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 415,
-    "author": "colek42",
-    "reviewers": [
-      {
-        "reviewer": "ChaosInTheCRD",
-        "count": 4
-      },
-      {
-        "reviewer": "colek42",
-        "count": 2
-      },
-      {
-        "reviewer": "github-advanced-security",
         "count": 1
       }
     ],
