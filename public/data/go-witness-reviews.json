@@ -91,6 +91,10 @@
     "totalComments": 3
   },
   {
+    "commenter": "stupendoussuperpowers",
+    "totalComments": 2
+  },
+  {
     "commenter": "matglas",
     "totalComments": 2
   },
@@ -101,10 +105,6 @@
   {
     "commenter": "ChaosInTheCRD",
     "totalComments": 2
-  },
-  {
-    "commenter": "stupendoussuperpowers",
-    "totalComments": 1
   },
   {
     "commenter": "jondkent",
@@ -129,7 +129,7 @@
       },
       {
         "commenter": "stupendoussuperpowers",
-        "count": 1
+        "count": 2
       }
     ]
   },
