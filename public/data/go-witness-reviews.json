@@ -75,6 +75,10 @@
     "totalComments": 6
   },
   {
+    "commenter": "Vyom-Yadav",
+    "totalComments": 4
+  },
+  {
     "commenter": "mikhailswift",
     "totalComments": 3
   },
@@ -84,10 +88,6 @@
   },
   {
     "commenter": "kriscoleman",
-    "totalComments": 3
-  },
-  {
-    "commenter": "Vyom-Yadav",
     "totalComments": 3
   },
   {
@@ -125,7 +125,7 @@
     "commenters": [
       {
         "commenter": "Vyom-Yadav",
-        "count": 1
+        "count": 2
       },
       {
         "commenter": "stupendoussuperpowers",
