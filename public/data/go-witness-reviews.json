@@ -10,11 +10,11 @@
   },
   {
     "reviewer": "mikhailswift",
-    "totalReviews": 31
+    "totalReviews": 30
   },
   {
     "reviewer": "ChaosInTheCRD",
-    "totalReviews": 12
+    "totalReviews": 7
   },
   {
     "reviewer": "fkautz",
@@ -64,7 +64,7 @@
     "commenterStats": [
   {
     "commenter": "colek42",
-    "totalComments": 27
+    "totalComments": 26
   },
   {
     "commenter": "jkjell",
@@ -103,15 +103,17 @@
     "totalComments": 2
   },
   {
-    "commenter": "ChaosInTheCRD",
-    "totalComments": 2
-  },
-  {
     "commenter": "jondkent",
     "totalComments": 1
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 632,
+    "author": "fkautz",
+    "reviewers": [],
+    "commenters": []
+  },
   {
     "prNumber": 631,
     "author": "app/dependabot",
@@ -2543,30 +2545,6 @@
     "commenters": [
       {
         "commenter": "fkautz",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 420,
-    "author": "colek42",
-    "reviewers": [
-      {
-        "reviewer": "ChaosInTheCRD",
-        "count": 5
-      },
-      {
-        "reviewer": "mikhailswift",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "ChaosInTheCRD",
-        "count": 2
-      },
-      {
-        "commenter": "colek42",
         "count": 1
       }
     ]
