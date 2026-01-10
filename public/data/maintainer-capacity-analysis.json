@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-09T00:24:36.549Z",
+  "generated": "2026-01-10T00:24:01.527Z",
   "topMaintainers": [
     {
       "name": "mikhailswift",
@@ -89,12 +89,12 @@
     },
     {
       "name": "jkjell",
-      "totalPRs": 73,
+      "totalPRs": 74,
       "firstPR": "2023-09-21T20:25:51Z",
-      "lastPR": "2025-10-15T18:02:34Z",
-      "avgMonthlyPRs": "4.6",
+      "lastPR": "2026-01-09T16:09:32Z",
+      "avgMonthlyPRs": "4.4",
       "maxMonthlyPRs": 10,
-      "recentAvg": "3.3",
+      "recentAvg": "2.7",
       "trend": "decreasing",
       "gaps": [
         {
@@ -121,15 +121,21 @@
           "start": "2025-05",
           "end": "2025-10",
           "duration": 4
+        },
+        {
+          "start": "2025-10",
+          "end": "2026-01",
+          "duration": 2
         }
       ],
       "longestGap": 4,
       "repoActivity": {
-        "witness": 24,
+        "witness": 25,
         "go-witness": 25,
         "archivista": 24
       },
       "monthlyActivity": {
+        "2026-01": 1,
         "2025-10": 5,
         "2025-04": 3,
         "2024-12": 7,
@@ -488,11 +494,11 @@
       "count": 7
     },
     {
-      "pair": "matglas & mikhailswift",
+      "pair": "fkautz & jkjell",
       "count": 6
     },
     {
-      "pair": "jkjell & matglas",
+      "pair": "matglas & mikhailswift",
       "count": 6
     }
   ],
