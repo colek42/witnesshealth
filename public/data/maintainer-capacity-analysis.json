@@ -1,12 +1,12 @@
 {
-  "generated": "2026-01-13T00:21:17.076Z",
+  "generated": "2026-01-14T00:25:22.085Z",
   "topMaintainers": [
     {
       "name": "mikhailswift",
-      "totalPRs": 128,
+      "totalPRs": 129,
       "firstPR": "2022-06-20T20:43:58Z",
-      "lastPR": "2025-05-16T16:21:22Z",
-      "avgMonthlyPRs": "4.1",
+      "lastPR": "2026-01-13T18:55:06Z",
+      "avgMonthlyPRs": "4.0",
       "maxMonthlyPRs": 13,
       "recentAvg": "3.3",
       "trend": "decreasing",
@@ -45,15 +45,21 @@
           "start": "2024-12",
           "end": "2025-04",
           "duration": 3
+        },
+        {
+          "start": "2025-05",
+          "end": "2026-01",
+          "duration": 7
         }
       ],
-      "longestGap": 3,
+      "longestGap": 7,
       "repoActivity": {
-        "witness": 67,
+        "witness": 68,
         "go-witness": 30,
         "archivista": 31
       },
       "monthlyActivity": {
+        "2026-01": 1,
         "2025-05": 4,
         "2025-04": 5,
         "2024-10": 3,
@@ -467,11 +473,15 @@
     },
     {
       "pair": "jkjell & mikhailswift",
-      "count": 11
+      "count": 12
     },
     {
       "pair": "ChaosInTheCRD & kairoaraujo",
       "count": 9
+    },
+    {
+      "pair": "fkautz & mikhailswift",
+      "count": 8
     },
     {
       "pair": "ChaosInTheCRD & jkjell",
@@ -484,10 +494,6 @@
     {
       "pair": "kairoaraujo & mikhailswift",
       "count": 8
-    },
-    {
-      "pair": "fkautz & mikhailswift",
-      "count": 7
     },
     {
       "pair": "kairoaraujo & matglas",
@@ -507,7 +513,7 @@
       "name": "mikhailswift",
       "factors": [
         "Activity decreasing",
-        "Had 3-month gap"
+        "Had 7-month gap"
       ]
     },
     {
