@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 146
+    "totalReviews": 147
   },
   {
     "reviewer": "colek42",
@@ -111,7 +111,12 @@
   {
     "prNumber": 640,
     "author": "fkautz",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
     "commenters": []
   },
   {

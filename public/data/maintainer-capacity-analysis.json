@@ -1,5 +1,5 @@
 {
-  "generated": "2026-01-15T00:23:23.462Z",
+  "generated": "2026-01-16T00:25:06.530Z",
   "topMaintainers": [
     {
       "name": "mikhailswift",
@@ -344,13 +344,13 @@
     },
     {
       "name": "fkautz",
-      "totalPRs": 18,
+      "totalPRs": 19,
       "firstPR": "2022-06-20T20:34:36Z",
       "lastPR": "2024-06-01T04:50:49Z",
-      "avgMonthlyPRs": "1.5",
+      "avgMonthlyPRs": "1.6",
       "maxMonthlyPRs": 4,
-      "recentAvg": "1.3",
-      "trend": "decreasing",
+      "recentAvg": "1.7",
+      "trend": "increasing",
       "gaps": [
         {
           "start": "2022-08",
@@ -396,12 +396,12 @@
       "longestGap": 7,
       "repoActivity": {
         "witness": 1,
-        "go-witness": 8,
+        "go-witness": 9,
         "archivista": 9
       },
       "monthlyActivity": {
         "2024-06": 3,
-        "2026-01": 2,
+        "2026-01": 3,
         "2025-10": 1,
         "2025-09": 1,
         "2025-04": 1,
@@ -552,7 +552,6 @@
     {
       "name": "fkautz",
       "factors": [
-        "Activity decreasing",
         "Had 7-month gap"
       ]
     }
