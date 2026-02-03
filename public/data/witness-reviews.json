@@ -105,6 +105,17 @@
 ],
     "prReviews": [
   {
+    "prNumber": 719,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
+  {
     "prNumber": 718,
     "author": "app/dependabot",
     "reviewers": [],
@@ -120,6 +131,10 @@
     "author": "app/dependabot",
     "reviewers": [],
     "commenters": [
+      {
+        "commenter": "dependabot",
+        "count": 1
+      },
       {
         "commenter": "netlify",
         "count": 1
@@ -3454,21 +3469,6 @@
   },
   {
     "prNumber": 496,
-    "author": "app/dependabot",
-    "reviewers": [],
-    "commenters": [
-      {
-        "commenter": "dependabot",
-        "count": 1
-      },
-      {
-        "commenter": "netlify",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 495,
     "author": "app/dependabot",
     "reviewers": [],
     "commenters": [
