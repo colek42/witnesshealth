@@ -6,7 +6,7 @@
   },
   {
     "reviewer": "kairoaraujo",
-    "totalReviews": 18
+    "totalReviews": 16
   },
   {
     "reviewer": "mikhailswift",
@@ -36,7 +36,7 @@
     "commenterStats": [
   {
     "commenter": "dependabot",
-    "totalComments": 27
+    "totalComments": 28
   },
   {
     "commenter": "jkjell",
@@ -73,6 +73,18 @@
 ],
     "prReviews": [
   {
+    "prNumber": 713,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
+  {
+    "prNumber": 712,
+    "author": "app/github-actions",
+    "reviewers": [],
+    "commenters": []
+  },
+  {
     "prNumber": 711,
     "author": "app/dependabot",
     "reviewers": [],
@@ -82,7 +94,12 @@
     "prNumber": 710,
     "author": "app/dependabot",
     "reviewers": [],
-    "commenters": []
+    "commenters": [
+      {
+        "commenter": "dependabot",
+        "count": 1
+      }
+    ]
   },
   {
     "prNumber": 709,
@@ -2352,28 +2369,6 @@
   },
   {
     "prNumber": 508,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "kairoaraujo",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 507,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "kairoaraujo",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 506,
     "author": "app/dependabot",
     "reviewers": [
       {
