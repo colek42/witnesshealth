@@ -5,19 +5,15 @@
     "totalReviews": 144
   },
   {
-    "reviewer": "colek42",
-    "totalReviews": 32
+    "reviewer": "mikhailswift",
+    "totalReviews": 34
   },
   {
-    "reviewer": "mikhailswift",
-    "totalReviews": 30
+    "reviewer": "colek42",
+    "totalReviews": 31
   },
   {
     "reviewer": "fkautz",
-    "totalReviews": 6
-  },
-  {
-    "reviewer": "ChaosInTheCRD",
     "totalReviews": 6
   },
   {
@@ -41,6 +37,10 @@
     "totalReviews": 1
   },
   {
+    "reviewer": "kusari-inspector",
+    "totalReviews": 1
+  },
+  {
     "reviewer": "kairoaraujo",
     "totalReviews": 1
   },
@@ -59,6 +59,10 @@
   {
     "reviewer": "JustinCappos",
     "totalReviews": 1
+  },
+  {
+    "reviewer": "ChaosInTheCRD",
+    "totalReviews": 1
   }
 ],
     "commenterStats": [
@@ -75,12 +79,12 @@
     "totalComments": 7
   },
   {
-    "commenter": "Vyom-Yadav",
+    "commenter": "mikhailswift",
     "totalComments": 4
   },
   {
-    "commenter": "mikhailswift",
-    "totalComments": 3
+    "commenter": "Vyom-Yadav",
+    "totalComments": 4
   },
   {
     "commenter": "manzil-infinity180",
@@ -99,6 +103,10 @@
     "totalComments": 2
   },
   {
+    "commenter": "kusari-inspector",
+    "totalComments": 1
+  },
+  {
     "commenter": "jondkent",
     "totalComments": 1
   },
@@ -108,6 +116,12 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 654,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
   {
     "prNumber": 653,
     "author": "app/dependabot",
@@ -369,10 +383,27 @@
   {
     "prNumber": 628,
     "author": "Vyom-Yadav",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "kusari-inspector",
+        "count": 1
+      },
+      {
+        "reviewer": "mikhailswift",
+        "count": 3
+      }
+    ],
     "commenters": [
       {
         "commenter": "Vyom-Yadav",
+        "count": 1
+      },
+      {
+        "commenter": "kusari-inspector",
+        "count": 1
+      },
+      {
+        "commenter": "mikhailswift",
         "count": 1
       }
     ]
@@ -384,6 +415,10 @@
       {
         "reviewer": "Vyom-Yadav",
         "count": 1
+      },
+      {
+        "reviewer": "mikhailswift",
+        "count": 3
       }
     ],
     "commenters": [
@@ -2516,25 +2551,6 @@
       {
         "reviewer": "jkjell",
         "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 441,
-    "author": "ChaosInTheCRD",
-    "reviewers": [
-      {
-        "reviewer": "ChaosInTheCRD",
-        "count": 5
-      },
-      {
-        "reviewer": "colek42",
-        "count": 1
-      },
-      {
-        "reviewer": "mikhailswift",
-        "count": 2
       }
     ],
     "commenters": []
