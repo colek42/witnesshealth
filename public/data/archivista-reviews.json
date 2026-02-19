@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 143
+    "totalReviews": 142
   },
   {
     "reviewer": "kairoaraujo",
@@ -72,6 +72,12 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 715,
+    "author": "app/github-actions",
+    "reviewers": [],
+    "commenters": []
+  },
   {
     "prNumber": 714,
     "author": "app/dependabot",
@@ -2411,17 +2417,6 @@
     "reviewers": [
       {
         "reviewer": "kairoaraujo",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 509,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
         "count": 1
       }
     ],
