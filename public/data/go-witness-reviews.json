@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 142
+    "totalReviews": 141
   },
   {
     "reviewer": "mikhailswift",
@@ -41,10 +41,6 @@
     "totalReviews": 1
   },
   {
-    "reviewer": "kairoaraujo",
-    "totalReviews": 1
-  },
-  {
     "reviewer": "github-advanced-security",
     "totalReviews": 1
   },
@@ -58,10 +54,6 @@
   },
   {
     "reviewer": "JustinCappos",
-    "totalReviews": 1
-  },
-  {
-    "reviewer": "ChaosInTheCRD",
     "totalReviews": 1
   }
 ],
@@ -116,6 +108,24 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 659,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
+  {
+    "prNumber": 658,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
+  {
+    "prNumber": 657,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
   {
     "prNumber": 656,
     "author": "mikhailswift",
@@ -2548,39 +2558,6 @@
         "count": 1
       }
     ]
-  },
-  {
-    "prNumber": 447,
-    "author": "jkjell",
-    "reviewers": [
-      {
-        "reviewer": "ChaosInTheCRD",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 446,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "kairoaraujo",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 445,
-    "author": "jrampon",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
   }
 ]
 }
