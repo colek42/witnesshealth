@@ -17,11 +17,11 @@
     "totalReviews": 6
   },
   {
-    "reviewer": "ChaosInTheCRD",
-    "totalReviews": 6
+    "reviewer": "matglas",
+    "totalReviews": 5
   },
   {
-    "reviewer": "matglas",
+    "reviewer": "ChaosInTheCRD",
     "totalReviews": 5
   },
   {
@@ -87,10 +87,6 @@
     "totalComments": 2
   },
   {
-    "commenter": "ChaosInTheCRD",
-    "totalComments": 2
-  },
-  {
     "commenter": "suzuki-shunsuke",
     "totalComments": 1
   },
@@ -101,9 +97,24 @@
   {
     "commenter": "kairoaraujo",
     "totalComments": 1
+  },
+  {
+    "commenter": "ChaosInTheCRD",
+    "totalComments": 1
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 730,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
   {
     "prNumber": 729,
     "author": "app/dependabot",
@@ -3472,26 +3483,6 @@
       },
       {
         "commenter": "patzielinski",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 505,
-    "author": "kairoaraujo",
-    "reviewers": [
-      {
-        "reviewer": "ChaosInTheCRD",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "ChaosInTheCRD",
-        "count": 1
-      },
-      {
-        "commenter": "netlify",
         "count": 1
       }
     ]
