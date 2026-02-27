@@ -79,6 +79,10 @@
     "totalComments": 4
   },
   {
+    "commenter": "matglas",
+    "totalComments": 3
+  },
+  {
     "commenter": "manzil-infinity180",
     "totalComments": 3
   },
@@ -88,10 +92,6 @@
   },
   {
     "commenter": "stupendoussuperpowers",
-    "totalComments": 2
-  },
-  {
-    "commenter": "matglas",
     "totalComments": 2
   },
   {
@@ -131,6 +131,10 @@
     "author": "mikhailswift",
     "reviewers": [],
     "commenters": [
+      {
+        "commenter": "matglas",
+        "count": 1
+      },
       {
         "commenter": "mikhailswift",
         "count": 1
