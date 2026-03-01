@@ -1,0 +1,566 @@
+{
+  "generated": "2026-03-01T00:33:08.329Z",
+  "topMaintainers": [
+    {
+      "name": "mikhailswift",
+      "totalPRs": 129,
+      "firstPR": "2022-06-20T20:43:58Z",
+      "lastPR": "2026-01-13T18:55:06Z",
+      "avgMonthlyPRs": "4.0",
+      "maxMonthlyPRs": 13,
+      "recentAvg": "3.3",
+      "trend": "decreasing",
+      "gaps": [
+        {
+          "start": "2022-11",
+          "end": "2023-01",
+          "duration": 1
+        },
+        {
+          "start": "2023-03",
+          "end": "2023-06",
+          "duration": 2
+        },
+        {
+          "start": "2023-10",
+          "end": "2024-01",
+          "duration": 2
+        },
+        {
+          "start": "2024-03",
+          "end": "2024-05",
+          "duration": 1
+        },
+        {
+          "start": "2024-08",
+          "end": "2024-10",
+          "duration": 1
+        },
+        {
+          "start": "2024-10",
+          "end": "2024-12",
+          "duration": 1
+        },
+        {
+          "start": "2024-12",
+          "end": "2025-04",
+          "duration": 3
+        },
+        {
+          "start": "2025-05",
+          "end": "2026-01",
+          "duration": 7
+        }
+      ],
+      "longestGap": 7,
+      "repoActivity": {
+        "witness": 68,
+        "go-witness": 30,
+        "archivista": 31
+      },
+      "monthlyActivity": {
+        "2026-01": 1,
+        "2025-05": 4,
+        "2025-04": 5,
+        "2024-10": 3,
+        "2024-06": 2,
+        "2024-03": 1,
+        "2023-08": 2,
+        "2023-07": 5,
+        "2023-06": 4,
+        "2023-02": 9,
+        "2023-01": 1,
+        "2022-11": 4,
+        "2022-10": 8,
+        "2022-09": 8,
+        "2022-08": 6,
+        "2022-06": 6,
+        "2022-05": 5,
+        "2022-04": 1,
+        "2022-03": 1,
+        "2022-02": 13,
+        "2022-01": 12,
+        "2021-12": 10,
+        "2024-08": 2,
+        "2024-02": 3,
+        "2024-01": 1,
+        "2024-05": 1,
+        "2024-12": 1,
+        "2024-07": 1,
+        "2023-10": 1,
+        "2023-09": 2,
+        "2023-03": 1,
+        "2022-07": 5
+      }
+    },
+    {
+      "name": "jkjell",
+      "totalPRs": 74,
+      "firstPR": "2023-09-21T20:25:51Z",
+      "lastPR": "2026-01-09T16:09:32Z",
+      "avgMonthlyPRs": "4.4",
+      "maxMonthlyPRs": 10,
+      "recentAvg": "2.7",
+      "trend": "decreasing",
+      "gaps": [
+        {
+          "start": "2024-03",
+          "end": "2024-05",
+          "duration": 1
+        },
+        {
+          "start": "2024-06",
+          "end": "2024-08",
+          "duration": 1
+        },
+        {
+          "start": "2024-08",
+          "end": "2024-12",
+          "duration": 3
+        },
+        {
+          "start": "2024-12",
+          "end": "2025-02",
+          "duration": 1
+        },
+        {
+          "start": "2025-05",
+          "end": "2025-10",
+          "duration": 4
+        },
+        {
+          "start": "2025-10",
+          "end": "2026-01",
+          "duration": 2
+        }
+      ],
+      "longestGap": 4,
+      "repoActivity": {
+        "witness": 25,
+        "go-witness": 25,
+        "archivista": 24
+      },
+      "monthlyActivity": {
+        "2026-01": 1,
+        "2025-10": 5,
+        "2025-04": 3,
+        "2024-12": 7,
+        "2024-06": 10,
+        "2024-03": 6,
+        "2024-02": 4,
+        "2024-05": 2,
+        "2024-01": 8,
+        "2023-12": 10,
+        "2023-11": 5,
+        "2025-05": 2,
+        "2025-03": 1,
+        "2025-02": 2,
+        "2023-09": 2,
+        "2024-08": 3,
+        "2023-10": 3
+      }
+    },
+    {
+      "name": "ChaosInTheCRD",
+      "totalPRs": 55,
+      "firstPR": "2023-12-13T12:38:40Z",
+      "lastPR": "2025-07-29T15:56:51Z",
+      "avgMonthlyPRs": "5.5",
+      "maxMonthlyPRs": 13,
+      "recentAvg": "2.0",
+      "trend": "decreasing significantly",
+      "gaps": [
+        {
+          "start": "2024-06",
+          "end": "2024-08",
+          "duration": 1
+        },
+        {
+          "start": "2024-08",
+          "end": "2025-03",
+          "duration": 6
+        },
+        {
+          "start": "2025-03",
+          "end": "2025-07",
+          "duration": 3
+        }
+      ],
+      "longestGap": 6,
+      "repoActivity": {
+        "witness": 25,
+        "go-witness": 29,
+        "archivista": 1
+      },
+      "monthlyActivity": {
+        "2025-07": 1,
+        "2024-06": 1,
+        "2024-05": 13,
+        "2024-04": 2,
+        "2024-03": 3,
+        "2024-02": 7,
+        "2024-01": 10,
+        "2023-12": 13,
+        "2025-03": 3,
+        "2024-08": 2
+      }
+    },
+    {
+      "name": "colek42",
+      "totalPRs": 53,
+      "firstPR": "2022-05-05T01:13:35Z",
+      "lastPR": "2025-06-09T13:52:14Z",
+      "avgMonthlyPRs": "2.6",
+      "maxMonthlyPRs": 11,
+      "recentAvg": "2.0",
+      "trend": "decreasing",
+      "gaps": [
+        {
+          "start": "2022-05",
+          "end": "2022-08",
+          "duration": 2
+        },
+        {
+          "start": "2023-03",
+          "end": "2023-08",
+          "duration": 4
+        },
+        {
+          "start": "2023-08",
+          "end": "2023-10",
+          "duration": 1
+        },
+        {
+          "start": "2023-10",
+          "end": "2024-04",
+          "duration": 5
+        },
+        {
+          "start": "2024-04",
+          "end": "2025-03",
+          "duration": 10
+        },
+        {
+          "start": "2025-04",
+          "end": "2025-06",
+          "duration": 1
+        }
+      ],
+      "longestGap": 10,
+      "repoActivity": {
+        "witness": 33,
+        "go-witness": 17,
+        "archivista": 3
+      },
+      "monthlyActivity": {
+        "2025-06": 4,
+        "2023-10": 1,
+        "2023-08": 1,
+        "2023-02": 11,
+        "2023-01": 2,
+        "2022-12": 1,
+        "2022-11": 2,
+        "2022-08": 1,
+        "2022-04": 4,
+        "2022-05": 2,
+        "2022-03": 1,
+        "2022-02": 6,
+        "2022-01": 4,
+        "2021-12": 5,
+        "2025-04": 1,
+        "2025-03": 1,
+        "2024-04": 1,
+        "2022-10": 1,
+        "2022-09": 3,
+        "2023-03": 1
+      }
+    },
+    {
+      "name": "kairoaraujo",
+      "totalPRs": 37,
+      "firstPR": "2023-12-06T19:29:14Z",
+      "lastPR": "2024-10-01T14:04:52Z",
+      "avgMonthlyPRs": "2.8",
+      "maxMonthlyPRs": 12,
+      "recentAvg": "1.0",
+      "trend": "decreasing significantly",
+      "gaps": [
+        {
+          "start": "2024-10",
+          "end": "2025-01",
+          "duration": 2
+        },
+        {
+          "start": "2025-01",
+          "end": "2025-03",
+          "duration": 1
+        }
+      ],
+      "longestGap": 2,
+      "repoActivity": {
+        "witness": 4,
+        "go-witness": 1,
+        "archivista": 32
+      },
+      "monthlyActivity": {
+        "2024-10": 1,
+        "2024-05": 2,
+        "2024-03": 1,
+        "2023-12": 12,
+        "2024-08": 4,
+        "2025-03": 1,
+        "2025-01": 1,
+        "2024-09": 4,
+        "2024-07": 1,
+        "2024-06": 2,
+        "2024-04": 2,
+        "2024-02": 1,
+        "2024-01": 5
+      }
+    },
+    {
+      "name": "manzil-infinity180",
+      "totalPRs": 27,
+      "firstPR": "2025-10-14T18:49:44Z",
+      "lastPR": "2025-11-12T03:57:28Z",
+      "avgMonthlyPRs": "4.5",
+      "maxMonthlyPRs": 10,
+      "recentAvg": "2.3",
+      "trend": "decreasing",
+      "gaps": [
+        {
+          "start": "2025-12",
+          "end": "2026-02",
+          "duration": 1
+        }
+      ],
+      "longestGap": 1,
+      "repoActivity": {
+        "witness": 20,
+        "go-witness": 5,
+        "archivista": 2
+      },
+      "monthlyActivity": {
+        "2025-11": 3,
+        "2025-12": 2,
+        "2026-02": 2,
+        "2025-10": 6,
+        "2025-09": 4,
+        "2025-08": 10
+      }
+    },
+    {
+      "name": "fkautz",
+      "totalPRs": 19,
+      "firstPR": "2022-06-20T20:34:36Z",
+      "lastPR": "2024-06-01T04:50:49Z",
+      "avgMonthlyPRs": "1.6",
+      "maxMonthlyPRs": 4,
+      "recentAvg": "1.7",
+      "trend": "increasing",
+      "gaps": [
+        {
+          "start": "2022-08",
+          "end": "2023-01",
+          "duration": 4
+        },
+        {
+          "start": "2023-01",
+          "end": "2023-07",
+          "duration": 5
+        },
+        {
+          "start": "2023-07",
+          "end": "2023-12",
+          "duration": 4
+        },
+        {
+          "start": "2023-12",
+          "end": "2024-06",
+          "duration": 5
+        },
+        {
+          "start": "2024-06",
+          "end": "2025-02",
+          "duration": 7
+        },
+        {
+          "start": "2025-02",
+          "end": "2025-04",
+          "duration": 1
+        },
+        {
+          "start": "2025-04",
+          "end": "2025-09",
+          "duration": 4
+        },
+        {
+          "start": "2025-10",
+          "end": "2026-01",
+          "duration": 2
+        }
+      ],
+      "longestGap": 7,
+      "repoActivity": {
+        "witness": 1,
+        "go-witness": 9,
+        "archivista": 9
+      },
+      "monthlyActivity": {
+        "2024-06": 3,
+        "2026-01": 3,
+        "2025-10": 1,
+        "2025-09": 1,
+        "2025-04": 1,
+        "2025-02": 1,
+        "2023-01": 1,
+        "2023-12": 1,
+        "2023-07": 1,
+        "2022-08": 4,
+        "2022-07": 1,
+        "2022-06": 1
+      }
+    },
+    {
+      "name": "matglas",
+      "totalPRs": 17,
+      "firstPR": "2024-04-23T17:59:44Z",
+      "lastPR": "2025-07-29T12:48:57Z",
+      "avgMonthlyPRs": "1.5",
+      "maxMonthlyPRs": 3,
+      "recentAvg": "1.7",
+      "trend": "increasing",
+      "gaps": [
+        {
+          "start": "2024-06",
+          "end": "2024-08",
+          "duration": 1
+        },
+        {
+          "start": "2024-10",
+          "end": "2024-12",
+          "duration": 1
+        },
+        {
+          "start": "2025-02",
+          "end": "2025-04",
+          "duration": 1
+        },
+        {
+          "start": "2025-04",
+          "end": "2025-07",
+          "duration": 2
+        }
+      ],
+      "longestGap": 2,
+      "repoActivity": {
+        "witness": 8,
+        "go-witness": 5,
+        "archivista": 4
+      },
+      "monthlyActivity": {
+        "2025-07": 1,
+        "2025-02": 3,
+        "2024-10": 1,
+        "2024-12": 2,
+        "2024-09": 2,
+        "2025-04": 1,
+        "2025-01": 1,
+        "2024-06": 1,
+        "2024-08": 1,
+        "2024-05": 3,
+        "2024-04": 1
+      }
+    }
+  ],
+  "collaborations": [
+    {
+      "pair": "colek42 & mikhailswift",
+      "count": 16
+    },
+    {
+      "pair": "jkjell & mikhailswift",
+      "count": 12
+    },
+    {
+      "pair": "ChaosInTheCRD & kairoaraujo",
+      "count": 9
+    },
+    {
+      "pair": "fkautz & mikhailswift",
+      "count": 8
+    },
+    {
+      "pair": "ChaosInTheCRD & jkjell",
+      "count": 8
+    },
+    {
+      "pair": "jkjell & kairoaraujo",
+      "count": 8
+    },
+    {
+      "pair": "kairoaraujo & mikhailswift",
+      "count": 8
+    },
+    {
+      "pair": "kairoaraujo & matglas",
+      "count": 7
+    },
+    {
+      "pair": "fkautz & jkjell",
+      "count": 6
+    },
+    {
+      "pair": "matglas & mikhailswift",
+      "count": 6
+    }
+  ],
+  "risks": [
+    {
+      "name": "mikhailswift",
+      "factors": [
+        "Activity decreasing",
+        "Had 7-month gap"
+      ]
+    },
+    {
+      "name": "jkjell",
+      "factors": [
+        "Activity decreasing",
+        "Had 4-month gap"
+      ]
+    },
+    {
+      "name": "ChaosInTheCRD",
+      "factors": [
+        "Activity decreasing significantly",
+        "Had 6-month gap"
+      ]
+    },
+    {
+      "name": "colek42",
+      "factors": [
+        "Activity decreasing",
+        "Had 10-month gap"
+      ]
+    },
+    {
+      "name": "kairoaraujo",
+      "factors": [
+        "Activity decreasing significantly"
+      ]
+    },
+    {
+      "name": "manzil-infinity180",
+      "factors": [
+        "Activity decreasing"
+      ]
+    },
+    {
+      "name": "fkautz",
+      "factors": [
+        "Had 7-month gap"
+      ]
+    }
+  ]
+}

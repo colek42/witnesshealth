@@ -1,0 +1,131 @@
+{
+    "openIssues": 72,
+    "closedIssues": 114,
+    "openPRs": 6,
+    "monthlyClosed": [
+  {
+    "month": "2021-12",
+    "count": 12
+  },
+  {
+    "month": "2022-01",
+    "count": 22
+  },
+  {
+    "month": "2022-02",
+    "count": 8
+  },
+  {
+    "month": "2022-04",
+    "count": 3
+  },
+  {
+    "month": "2022-08",
+    "count": 1
+  },
+  {
+    "month": "2022-09",
+    "count": 6
+  },
+  {
+    "month": "2022-10",
+    "count": 2
+  },
+  {
+    "month": "2022-11",
+    "count": 1
+  },
+  {
+    "month": "2022-12",
+    "count": 1
+  },
+  {
+    "month": "2023-01",
+    "count": 10
+  },
+  {
+    "month": "2023-02",
+    "count": 15
+  },
+  {
+    "month": "2023-03",
+    "count": 1
+  },
+  {
+    "month": "2023-07",
+    "count": 1
+  },
+  {
+    "month": "2023-08",
+    "count": 1
+  },
+  {
+    "month": "2023-10",
+    "count": 1
+  },
+  {
+    "month": "2023-11",
+    "count": 3
+  },
+  {
+    "month": "2023-12",
+    "count": 1
+  },
+  {
+    "month": "2024-01",
+    "count": 2
+  },
+  {
+    "month": "2024-02",
+    "count": 1
+  },
+  {
+    "month": "2024-05",
+    "count": 2
+  },
+  {
+    "month": "2024-06",
+    "count": 4
+  },
+  {
+    "month": "2024-07",
+    "count": 1
+  },
+  {
+    "month": "2024-08",
+    "count": 1
+  },
+  {
+    "month": "2024-12",
+    "count": 1
+  },
+  {
+    "month": "2025-02",
+    "count": 2
+  },
+  {
+    "month": "2025-04",
+    "count": 2
+  },
+  {
+    "month": "2025-08",
+    "count": 2
+  },
+  {
+    "month": "2025-10",
+    "count": 2
+  },
+  {
+    "month": "2025-11",
+    "count": 3
+  },
+  {
+    "month": "2025-12",
+    "count": 1
+  },
+  {
+    "month": "2026-02",
+    "count": 1
+  }
+]
+}
