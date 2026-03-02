@@ -29,7 +29,15 @@
     "totalReviews": 2
   },
   {
+    "reviewer": "kusari-inspector",
+    "totalReviews": 2
+  },
+  {
     "reviewer": "copilot-pull-request-reviewer",
+    "totalReviews": 2
+  },
+  {
+    "reviewer": "Vyom-Yadav",
     "totalReviews": 2
   },
   {
@@ -37,15 +45,7 @@
     "totalReviews": 1
   },
   {
-    "reviewer": "kusari-inspector",
-    "totalReviews": 1
-  },
-  {
     "reviewer": "github-advanced-security",
-    "totalReviews": 1
-  },
-  {
-    "reviewer": "Vyom-Yadav",
     "totalReviews": 1
   },
   {
@@ -75,8 +75,12 @@
     "totalComments": 7
   },
   {
+    "commenter": "kusari-inspector",
+    "totalComments": 6
+  },
+  {
     "commenter": "Vyom-Yadav",
-    "totalComments": 4
+    "totalComments": 5
   },
   {
     "commenter": "matglas",
@@ -92,10 +96,6 @@
   },
   {
     "commenter": "stupendoussuperpowers",
-    "totalComments": 2
-  },
-  {
-    "commenter": "kusari-inspector",
     "totalComments": 2
   },
   {
@@ -436,7 +436,7 @@
     "reviewers": [
       {
         "reviewer": "kusari-inspector",
-        "count": 1
+        "count": 2
       },
       {
         "reviewer": "mikhailswift",
@@ -446,11 +446,11 @@
     "commenters": [
       {
         "commenter": "Vyom-Yadav",
-        "count": 1
+        "count": 2
       },
       {
         "commenter": "kusari-inspector",
-        "count": 1
+        "count": 5
       },
       {
         "commenter": "mikhailswift",
@@ -464,7 +464,7 @@
     "reviewers": [
       {
         "reviewer": "Vyom-Yadav",
-        "count": 1
+        "count": 2
       },
       {
         "reviewer": "mikhailswift",
