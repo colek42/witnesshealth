@@ -67,12 +67,12 @@
     "totalComments": 15
   },
   {
-    "commenter": "dependabot",
+    "commenter": "mikhailswift",
     "totalComments": 8
   },
   {
-    "commenter": "mikhailswift",
-    "totalComments": 7
+    "commenter": "dependabot",
+    "totalComments": 8
   },
   {
     "commenter": "kusari-inspector",
@@ -398,6 +398,10 @@
       {
         "commenter": "jkjell",
         "count": 2
+      },
+      {
+        "commenter": "mikhailswift",
+        "count": 1
       }
     ]
   },
