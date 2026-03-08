@@ -67,16 +67,16 @@
     "totalComments": 16
   },
   {
+    "commenter": "kusari-inspector",
+    "totalComments": 9
+  },
+  {
     "commenter": "mikhailswift",
     "totalComments": 8
   },
   {
     "commenter": "dependabot",
     "totalComments": 8
-  },
-  {
-    "commenter": "kusari-inspector",
-    "totalComments": 7
   },
   {
     "commenter": "Vyom-Yadav",
@@ -530,6 +530,10 @@
       {
         "commenter": "jkjell",
         "count": 1
+      },
+      {
+        "commenter": "kusari-inspector",
+        "count": 2
       },
       {
         "commenter": "stupendoussuperpowers",
