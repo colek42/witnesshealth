@@ -1,14 +1,14 @@
 {
-  "generated": "2026-03-13T00:29:51.368Z",
+  "generated": "2026-03-14T00:27:54.795Z",
   "topMaintainers": [
     {
       "name": "mikhailswift",
-      "totalPRs": 130,
+      "totalPRs": 131,
       "firstPR": "2022-06-20T20:43:58Z",
       "lastPR": "2026-01-13T18:55:06Z",
-      "avgMonthlyPRs": "3.9",
+      "avgMonthlyPRs": "4.0",
       "maxMonthlyPRs": 13,
-      "recentAvg": "2.0",
+      "recentAvg": "2.3",
       "trend": "decreasing",
       "gaps": [
         {
@@ -60,7 +60,7 @@
       "longestGap": 7,
       "repoActivity": {
         "witness": 68,
-        "go-witness": 31,
+        "go-witness": 32,
         "archivista": 31
       },
       "monthlyActivity": {
@@ -86,7 +86,7 @@
         "2022-02": 13,
         "2022-01": 12,
         "2021-12": 10,
-        "2026-03": 1,
+        "2026-03": 2,
         "2024-08": 2,
         "2024-02": 3,
         "2024-01": 1,
@@ -101,12 +101,12 @@
     },
     {
       "name": "jkjell",
-      "totalPRs": 75,
+      "totalPRs": 76,
       "firstPR": "2023-09-21T20:25:51Z",
       "lastPR": "2026-01-09T16:09:32Z",
       "avgMonthlyPRs": "4.2",
       "maxMonthlyPRs": 10,
-      "recentAvg": "2.3",
+      "recentAvg": "2.7",
       "trend": "decreasing",
       "gaps": [
         {
@@ -148,7 +148,7 @@
       "longestGap": 4,
       "repoActivity": {
         "witness": 25,
-        "go-witness": 25,
+        "go-witness": 26,
         "archivista": 25
       },
       "monthlyActivity": {
@@ -163,11 +163,11 @@
         "2024-01": 8,
         "2023-12": 10,
         "2023-11": 5,
+        "2026-03": 2,
         "2025-05": 2,
         "2025-03": 1,
         "2025-02": 2,
         "2023-09": 2,
-        "2026-03": 1,
         "2024-08": 3,
         "2023-10": 3
       }
