@@ -26,7 +26,7 @@
   },
   {
     "reviewer": "adityasaky",
-    "totalReviews": 3
+    "totalReviews": 4
   },
   {
     "reviewer": "kriscoleman",
@@ -99,7 +99,12 @@
   {
     "prNumber": 740,
     "author": "app/dependabot",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "adityasaky",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "netlify",
