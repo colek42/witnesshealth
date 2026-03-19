@@ -13,8 +13,16 @@
     "totalReviews": 28
   },
   {
+    "reviewer": "Vyom-Yadav",
+    "totalReviews": 7
+  },
+  {
     "reviewer": "fkautz",
     "totalReviews": 6
+  },
+  {
+    "reviewer": "stupendoussuperpowers",
+    "totalReviews": 4
   },
   {
     "reviewer": "matglas",
@@ -23,10 +31,6 @@
   {
     "reviewer": "kriscoleman",
     "totalReviews": 4
-  },
-  {
-    "reviewer": "stupendoussuperpowers",
-    "totalReviews": 3
   },
   {
     "reviewer": "manzil-infinity180",
@@ -38,10 +42,6 @@
   },
   {
     "reviewer": "copilot-pull-request-reviewer",
-    "totalReviews": 2
-  },
-  {
-    "reviewer": "Vyom-Yadav",
     "totalReviews": 2
   },
   {
@@ -64,7 +64,7 @@
     "commenterStats": [
   {
     "commenter": "jkjell",
-    "totalComments": 23
+    "totalComments": 24
   },
   {
     "commenter": "colek42",
@@ -75,6 +75,10 @@
     "totalComments": 12
   },
   {
+    "commenter": "Vyom-Yadav",
+    "totalComments": 10
+  },
+  {
     "commenter": "dependabot",
     "totalComments": 9
   },
@@ -83,16 +87,12 @@
     "totalComments": 7
   },
   {
-    "commenter": "Vyom-Yadav",
-    "totalComments": 7
-  },
-  {
     "commenter": "matglas",
     "totalComments": 5
   },
   {
     "commenter": "stupendoussuperpowers",
-    "totalComments": 3
+    "totalComments": 4
   },
   {
     "commenter": "manzil-infinity180",
@@ -116,6 +116,17 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 683,
+    "author": "jkjell",
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
+    "commenters": []
+  },
   {
     "prNumber": 682,
     "author": "app/dependabot",
@@ -721,18 +732,22 @@
     "author": "Vyom-Yadav",
     "reviewers": [
       {
+        "reviewer": "Vyom-Yadav",
+        "count": 5
+      },
+      {
         "reviewer": "stupendoussuperpowers",
-        "count": 3
+        "count": 4
       }
     ],
     "commenters": [
       {
         "commenter": "Vyom-Yadav",
-        "count": 4
+        "count": 7
       },
       {
         "commenter": "jkjell",
-        "count": 1
+        "count": 2
       },
       {
         "commenter": "kusari-inspector",
@@ -740,7 +755,7 @@
       },
       {
         "commenter": "stupendoussuperpowers",
-        "count": 3
+        "count": 4
       }
     ]
   },
@@ -2609,17 +2624,6 @@
         "count": 1
       }
     ]
-  },
-  {
-    "prNumber": 469,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
   }
 ]
 }
