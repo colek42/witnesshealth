@@ -21,11 +21,11 @@
     "totalReviews": 5
   },
   {
-    "reviewer": "kairoaraujo",
-    "totalReviews": 4
+    "reviewer": "adityasaky",
+    "totalReviews": 5
   },
   {
-    "reviewer": "adityasaky",
+    "reviewer": "kairoaraujo",
     "totalReviews": 4
   },
   {
@@ -96,6 +96,22 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 741,
+    "author": "app/dependabot",
+    "reviewers": [
+      {
+        "reviewer": "adityasaky",
+        "count": 1
+      }
+    ],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
   {
     "prNumber": 740,
     "author": "app/dependabot",
@@ -3454,17 +3470,6 @@
         "commenter": "dependabot",
         "count": 1
       },
-      {
-        "commenter": "netlify",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 520,
-    "author": "colek42",
-    "reviewers": [],
-    "commenters": [
       {
         "commenter": "netlify",
         "count": 1

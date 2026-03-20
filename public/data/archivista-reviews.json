@@ -9,12 +9,12 @@
     "totalReviews": 8
   },
   {
-    "reviewer": "kairoaraujo",
+    "reviewer": "colek42",
     "totalReviews": 7
   },
   {
-    "reviewer": "colek42",
-    "totalReviews": 7
+    "reviewer": "kairoaraujo",
+    "totalReviews": 6
   },
   {
     "reviewer": "kriscoleman",
@@ -80,6 +80,12 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 737,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
   {
     "prNumber": 736,
     "author": "app/dependabot",
@@ -2427,17 +2433,6 @@
     "reviewers": [
       {
         "reviewer": "mikhailswift",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 530,
-    "author": "mikhailswift",
-    "reviewers": [
-      {
-        "reviewer": "kairoaraujo",
         "count": 1
       }
     ],
