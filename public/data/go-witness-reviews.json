@@ -14,7 +14,7 @@
   },
   {
     "reviewer": "Vyom-Yadav",
-    "totalReviews": 7
+    "totalReviews": 13
   },
   {
     "reviewer": "fkautz",
@@ -76,7 +76,7 @@
   },
   {
     "commenter": "Vyom-Yadav",
-    "totalComments": 10
+    "totalComments": 12
   },
   {
     "commenter": "dependabot",
@@ -125,7 +125,12 @@
         "count": 1
       }
     ],
-    "commenters": []
+    "commenters": [
+      {
+        "commenter": "Vyom-Yadav",
+        "count": 1
+      }
+    ]
   },
   {
     "prNumber": 682,
@@ -733,7 +738,7 @@
     "reviewers": [
       {
         "reviewer": "Vyom-Yadav",
-        "count": 5
+        "count": 11
       },
       {
         "reviewer": "stupendoussuperpowers",
@@ -743,7 +748,7 @@
     "commenters": [
       {
         "commenter": "Vyom-Yadav",
-        "count": 7
+        "count": 8
       },
       {
         "commenter": "jkjell",
