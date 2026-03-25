@@ -22,7 +22,7 @@
   },
   {
     "reviewer": "stupendoussuperpowers",
-    "totalReviews": 4
+    "totalReviews": 5
   },
   {
     "reviewer": "matglas",
@@ -71,11 +71,11 @@
     "totalComments": 17
   },
   {
-    "commenter": "kusari-inspector",
-    "totalComments": 12
+    "commenter": "Vyom-Yadav",
+    "totalComments": 13
   },
   {
-    "commenter": "Vyom-Yadav",
+    "commenter": "kusari-inspector",
     "totalComments": 12
   },
   {
@@ -87,12 +87,12 @@
     "totalComments": 7
   },
   {
-    "commenter": "matglas",
+    "commenter": "stupendoussuperpowers",
     "totalComments": 5
   },
   {
-    "commenter": "stupendoussuperpowers",
-    "totalComments": 4
+    "commenter": "matglas",
+    "totalComments": 5
   },
   {
     "commenter": "manzil-infinity180",
@@ -753,13 +753,13 @@
       },
       {
         "reviewer": "stupendoussuperpowers",
-        "count": 4
+        "count": 5
       }
     ],
     "commenters": [
       {
         "commenter": "Vyom-Yadav",
-        "count": 8
+        "count": 9
       },
       {
         "commenter": "jkjell",
@@ -771,7 +771,7 @@
       },
       {
         "commenter": "stupendoussuperpowers",
-        "count": 4
+        "count": 5
       }
     ]
   },
