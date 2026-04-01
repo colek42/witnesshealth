@@ -6,7 +6,7 @@
   },
   {
     "reviewer": "mikhailswift",
-    "totalReviews": 33
+    "totalReviews": 32
   },
   {
     "reviewer": "colek42",
@@ -26,7 +26,7 @@
   },
   {
     "reviewer": "kairoaraujo",
-    "totalReviews": 4
+    "totalReviews": 3
   },
   {
     "reviewer": "kriscoleman",
@@ -96,6 +96,28 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 750,
+    "author": "Jaydeep869",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "prNumber": 749,
+    "author": "Jaydeep869",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
   {
     "prNumber": 748,
     "author": "app/dependabot",
@@ -3442,38 +3464,6 @@
   },
   {
     "prNumber": 530,
-    "author": "jkjell",
-    "reviewers": [
-      {
-        "reviewer": "mikhailswift",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "netlify",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 529,
-    "author": "jkjell",
-    "reviewers": [
-      {
-        "reviewer": "kairoaraujo",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "netlify",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 528,
     "author": "jkjell",
     "reviewers": [
       {
