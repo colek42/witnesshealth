@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 146
+    "totalReviews": 144
   },
   {
     "reviewer": "mikhailswift",
@@ -29,15 +29,15 @@
     "totalReviews": 4
   },
   {
-    "reviewer": "kriscoleman",
-    "totalReviews": 4
-  },
-  {
     "reviewer": "manzil-infinity180",
     "totalReviews": 3
   },
   {
     "reviewer": "kusari-inspector",
+    "totalReviews": 3
+  },
+  {
+    "reviewer": "kriscoleman",
     "totalReviews": 3
   },
   {
@@ -60,19 +60,19 @@
     "commenterStats": [
   {
     "commenter": "jkjell",
-    "totalComments": 32
+    "totalComments": 31
   },
   {
     "commenter": "colek42",
     "totalComments": 17
   },
   {
-    "commenter": "Vyom-Yadav",
+    "commenter": "kusari-inspector",
     "totalComments": 13
   },
   {
-    "commenter": "kusari-inspector",
-    "totalComments": 12
+    "commenter": "Vyom-Yadav",
+    "totalComments": 13
   },
   {
     "commenter": "dependabot",
@@ -96,7 +96,7 @@
   },
   {
     "commenter": "kriscoleman",
-    "totalComments": 3
+    "totalComments": 2
   },
   {
     "commenter": "jas4711",
@@ -112,6 +112,17 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 694,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "kusari-inspector",
+        "count": 1
+      }
+    ]
+  },
   {
     "prNumber": 693,
     "author": "jkjell",
@@ -2654,30 +2665,6 @@
       }
     ],
     "commenters": []
-  },
-  {
-    "prNumber": 477,
-    "author": "kriscoleman",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 2
-      },
-      {
-        "reviewer": "kriscoleman",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "jkjell",
-        "count": 1
-      },
-      {
-        "commenter": "kriscoleman",
-        "count": 1
-      }
-    ]
   }
 ]
 }
