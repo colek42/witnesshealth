@@ -42,7 +42,7 @@
   },
   {
     "reviewer": "copilot-pull-request-reviewer",
-    "totalReviews": 2
+    "totalReviews": 3
   },
   {
     "reviewer": "github-advanced-security",
@@ -665,6 +665,10 @@
     "prNumber": 649,
     "author": "jessesanford",
     "reviewers": [
+      {
+        "reviewer": "copilot-pull-request-reviewer",
+        "count": 1
+      },
       {
         "reviewer": "manzil-infinity180",
         "count": 1
