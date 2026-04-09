@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 143
+    "totalReviews": 142
   },
   {
     "reviewer": "mikhailswift",
@@ -44,7 +44,7 @@
   },
   {
     "commenter": "jkjell",
-    "totalComments": 32
+    "totalComments": 30
   },
   {
     "commenter": "codecov",
@@ -80,6 +80,18 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 750,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
+  {
+    "prNumber": 749,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
   {
     "prNumber": 748,
     "author": "app/dependabot",
@@ -2468,28 +2480,6 @@
   {
     "prNumber": 544,
     "author": "app/github-actions",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 543,
-    "author": "app/dependabot",
-    "reviewers": [],
-    "commenters": [
-      {
-        "commenter": "jkjell",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "prNumber": 542,
-    "author": "app/dependabot",
     "reviewers": [
       {
         "reviewer": "jkjell",
