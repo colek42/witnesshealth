@@ -95,11 +95,11 @@
     "totalComments": 2
   },
   {
-    "commenter": "suzuki-shunsuke",
-    "totalComments": 1
+    "commenter": "Jaydeep869",
+    "totalComments": 2
   },
   {
-    "commenter": "Jaydeep869",
+    "commenter": "suzuki-shunsuke",
     "totalComments": 1
   }
 ],
@@ -109,6 +109,10 @@
     "author": "Jaydeep869",
     "reviewers": [],
     "commenters": [
+      {
+        "commenter": "Jaydeep869",
+        "count": 1
+      },
       {
         "commenter": "netlify",
         "count": 1
