@@ -2,11 +2,11 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 127
+    "totalReviews": 130
   },
   {
     "reviewer": "mikhailswift",
-    "totalReviews": 31
+    "totalReviews": 32
   },
   {
     "reviewer": "colek42",
@@ -43,10 +43,6 @@
   {
     "reviewer": "JustinCappos",
     "totalReviews": 1
-  },
-  {
-    "reviewer": "ChaosInTheCRD",
-    "totalReviews": 1
   }
 ],
     "commenterStats": [
@@ -60,7 +56,7 @@
   },
   {
     "commenter": "jkjell",
-    "totalComments": 23
+    "totalComments": 25
   },
   {
     "commenter": "colek42",
@@ -105,6 +101,42 @@
 ],
     "prReviews": [
   {
+    "prNumber": 768,
+    "author": "app/dependabot",
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "prNumber": 767,
+    "author": "app/dependabot",
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
+    "commenters": [
+      {
+        "commenter": "jkjell",
+        "count": 1
+      },
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
+  {
     "prNumber": 766,
     "author": "app/dependabot",
     "reviewers": [
@@ -123,8 +155,17 @@
   {
     "prNumber": 765,
     "author": "app/dependabot",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
     "commenters": [
+      {
+        "commenter": "jkjell",
+        "count": 1
+      },
       {
         "commenter": "netlify",
         "count": 1
@@ -134,7 +175,12 @@
   {
     "prNumber": 764,
     "author": "app/dependabot",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "jkjell",
@@ -168,7 +214,12 @@
   {
     "prNumber": 762,
     "author": "jkjell",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "mikhailswift",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "netlify",
@@ -3464,38 +3515,6 @@
     "reviewers": [
       {
         "reviewer": "mikhailswift",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "netlify",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 550,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "netlify",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 549,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "ChaosInTheCRD",
         "count": 1
       }
     ],
