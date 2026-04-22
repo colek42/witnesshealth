@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 144
+    "totalReviews": 148
   },
   {
     "reviewer": "mikhailswift",
@@ -403,7 +403,12 @@
   {
     "prNumber": 688,
     "author": "Jaydeep869",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 3
+      }
+    ],
     "commenters": []
   },
   {
@@ -1590,6 +1595,10 @@
       {
         "reviewer": "colek42",
         "count": 2
+      },
+      {
+        "reviewer": "jkjell",
+        "count": 1
       },
       {
         "reviewer": "manzil-infinity180",
