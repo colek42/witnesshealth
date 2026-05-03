@@ -10,7 +10,7 @@
   },
   {
     "reviewer": "colek42",
-    "totalReviews": 27
+    "totalReviews": 26
   },
   {
     "reviewer": "Vyom-Yadav",
@@ -71,11 +71,11 @@
     "totalComments": 15
   },
   {
-    "commenter": "kusari-inspector",
-    "totalComments": 13
+    "commenter": "Vyom-Yadav",
+    "totalComments": 15
   },
   {
-    "commenter": "Vyom-Yadav",
+    "commenter": "kusari-inspector",
     "totalComments": 13
   },
   {
@@ -112,6 +112,17 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 716,
+    "author": "Vyom-Yadav",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "Vyom-Yadav",
+        "count": 2
+      }
+    ]
+  },
   {
     "prNumber": 715,
     "author": "app/dependabot",
@@ -2691,17 +2702,6 @@
   },
   {
     "prNumber": 499,
-    "author": "mikhailswift",
-    "reviewers": [
-      {
-        "reviewer": "colek42",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 498,
     "author": "mikhailswift",
     "reviewers": [
       {
