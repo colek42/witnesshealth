@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 142
+    "totalReviews": 146
   },
   {
     "reviewer": "colek42",
@@ -44,7 +44,7 @@
   },
   {
     "commenter": "jkjell",
-    "totalComments": 36
+    "totalComments": 38
   },
   {
     "commenter": "codecov",
@@ -55,11 +55,11 @@
     "totalComments": 6
   },
   {
-    "commenter": "manzil-infinity180",
-    "totalComments": 4
+    "commenter": "kusari-inspector",
+    "totalComments": 5
   },
   {
-    "commenter": "kusari-inspector",
+    "commenter": "manzil-infinity180",
     "totalComments": 4
   },
   {
@@ -83,14 +83,29 @@
   {
     "prNumber": 767,
     "author": "app/dependabot",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
     "commenters": []
   },
   {
     "prNumber": 766,
     "author": "app/dependabot",
-    "reviewers": [],
-    "commenters": []
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
+    "commenters": [
+      {
+        "commenter": "jkjell",
+        "count": 1
+      }
+    ]
   },
   {
     "prNumber": 765,
@@ -106,13 +121,28 @@
   {
     "prNumber": 764,
     "author": "app/dependabot",
-    "reviewers": [],
-    "commenters": []
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
+    "commenters": [
+      {
+        "commenter": "jkjell",
+        "count": 1
+      }
+    ]
   },
   {
     "prNumber": 763,
     "author": "app/github-actions",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
     "commenters": []
   },
   {
@@ -133,7 +163,7 @@
     "commenters": [
       {
         "commenter": "kusari-inspector",
-        "count": 1
+        "count": 2
       }
     ]
   },
