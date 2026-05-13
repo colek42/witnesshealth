@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-12T00:43:35.813Z",
+  "generated": "2026-05-13T00:48:09.131Z",
   "topMaintainers": [
     {
       "name": "mikhailswift",
@@ -101,13 +101,13 @@
     },
     {
       "name": "jkjell",
-      "totalPRs": 78,
+      "totalPRs": 80,
       "firstPR": "2023-09-21T20:25:51Z",
       "lastPR": "2026-04-14T13:34:27Z",
-      "avgMonthlyPRs": "4.1",
+      "avgMonthlyPRs": "4.0",
       "maxMonthlyPRs": 10,
-      "recentAvg": "1.7",
-      "trend": "decreasing significantly",
+      "recentAvg": "2.0",
+      "trend": "decreasing",
       "gaps": [
         {
           "start": "2024-03",
@@ -148,7 +148,7 @@
       "longestGap": 4,
       "repoActivity": {
         "witness": 26,
-        "go-witness": 27,
+        "go-witness": 29,
         "archivista": 25
       },
       "monthlyActivity": {
@@ -164,6 +164,7 @@
         "2024-01": 8,
         "2023-12": 10,
         "2023-11": 5,
+        "2026-05": 2,
         "2026-03": 2,
         "2025-05": 2,
         "2025-03": 1,
@@ -333,25 +334,30 @@
     },
     {
       "name": "manzil-infinity180",
-      "totalPRs": 27,
+      "totalPRs": 28,
       "firstPR": "2025-10-14T18:49:44Z",
       "lastPR": "2025-11-12T03:57:28Z",
-      "avgMonthlyPRs": "4.5",
+      "avgMonthlyPRs": "4.0",
       "maxMonthlyPRs": 10,
-      "recentAvg": "2.3",
-      "trend": "decreasing",
+      "recentAvg": "1.7",
+      "trend": "decreasing significantly",
       "gaps": [
         {
           "start": "2025-12",
           "end": "2026-02",
           "duration": 1
+        },
+        {
+          "start": "2026-02",
+          "end": "2026-05",
+          "duration": 2
         }
       ],
-      "longestGap": 1,
+      "longestGap": 2,
       "repoActivity": {
         "witness": 20,
         "go-witness": 5,
-        "archivista": 2
+        "archivista": 3
       },
       "monthlyActivity": {
         "2025-11": 3,
@@ -359,7 +365,8 @@
         "2026-02": 2,
         "2025-10": 6,
         "2025-09": 4,
-        "2025-08": 10
+        "2025-08": 10,
+        "2026-05": 1
       }
     },
     {
@@ -539,7 +546,7 @@
     {
       "name": "jkjell",
       "factors": [
-        "Activity decreasing significantly",
+        "Activity decreasing",
         "Had 4-month gap"
       ]
     },
@@ -566,7 +573,7 @@
     {
       "name": "manzil-infinity180",
       "factors": [
-        "Activity decreasing"
+        "Activity decreasing significantly"
       ]
     },
     {

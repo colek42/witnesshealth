@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 146
+    "totalReviews": 147
   },
   {
     "reviewer": "colek42",
@@ -40,23 +40,23 @@
     "commenterStats": [
   {
     "commenter": "dependabot",
-    "totalComments": 40
+    "totalComments": 44
   },
   {
     "commenter": "jkjell",
-    "totalComments": 38
+    "totalComments": 42
   },
   {
     "commenter": "codecov",
     "totalComments": 9
   },
   {
-    "commenter": "colek42",
+    "commenter": "kusari-inspector",
     "totalComments": 6
   },
   {
-    "commenter": "kusari-inspector",
-    "totalComments": 5
+    "commenter": "colek42",
+    "totalComments": 6
   },
   {
     "commenter": "manzil-infinity180",
@@ -80,6 +80,12 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 768,
+    "author": "jkjell",
+    "reviewers": [],
+    "commenters": []
+  },
   {
     "prNumber": 767,
     "author": "app/dependabot",
@@ -163,7 +169,7 @@
     "commenters": [
       {
         "commenter": "kusari-inspector",
-        "count": 2
+        "count": 3
       }
     ]
   },
@@ -171,7 +177,16 @@
     "prNumber": 760,
     "author": "app/dependabot",
     "reviewers": [],
-    "commenters": []
+    "commenters": [
+      {
+        "commenter": "dependabot",
+        "count": 1
+      },
+      {
+        "commenter": "jkjell",
+        "count": 1
+      }
+    ]
   },
   {
     "prNumber": 759,
@@ -269,7 +284,16 @@
     "prNumber": 752,
     "author": "app/dependabot",
     "reviewers": [],
-    "commenters": []
+    "commenters": [
+      {
+        "commenter": "dependabot",
+        "count": 1
+      },
+      {
+        "commenter": "jkjell",
+        "count": 1
+      }
+    ]
   },
   {
     "prNumber": 751,
@@ -350,7 +374,16 @@
     "prNumber": 746,
     "author": "app/dependabot",
     "reviewers": [],
-    "commenters": []
+    "commenters": [
+      {
+        "commenter": "dependabot",
+        "count": 1
+      },
+      {
+        "commenter": "jkjell",
+        "count": 1
+      }
+    ]
   },
   {
     "prNumber": 745,
@@ -384,6 +417,10 @@
     "author": "app/dependabot",
     "reviewers": [],
     "commenters": [
+      {
+        "commenter": "dependabot",
+        "count": 1
+      },
       {
         "commenter": "jkjell",
         "count": 1
@@ -1217,7 +1254,12 @@
     "prNumber": 674,
     "author": "colek42",
     "reviewers": [],
-    "commenters": []
+    "commenters": [
+      {
+        "commenter": "jkjell",
+        "count": 1
+      }
+    ]
   },
   {
     "prNumber": 673,
@@ -1260,7 +1302,12 @@
   {
     "prNumber": 670,
     "author": "manzil-infinity180",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 2
+      }
+    ],
     "commenters": [
       {
         "commenter": "codecov",
@@ -2509,17 +2556,6 @@
   {
     "prNumber": 564,
     "author": "app/github-actions",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 563,
-    "author": "app/dependabot",
     "reviewers": [
       {
         "reviewer": "jkjell",
