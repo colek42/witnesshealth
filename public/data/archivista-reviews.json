@@ -10,7 +10,7 @@
   },
   {
     "reviewer": "mikhailswift",
-    "totalReviews": 3
+    "totalReviews": 5
   },
   {
     "reviewer": "kriscoleman",
@@ -83,7 +83,12 @@
   {
     "prNumber": 768,
     "author": "jkjell",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "mikhailswift",
+        "count": 1
+      }
+    ],
     "commenters": []
   },
   {
@@ -165,7 +170,12 @@
   {
     "prNumber": 761,
     "author": "jkjell",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "mikhailswift",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "kusari-inspector",
