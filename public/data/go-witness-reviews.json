@@ -2,15 +2,15 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 154
+    "totalReviews": 149
   },
   {
     "reviewer": "mikhailswift",
-    "totalReviews": 27
+    "totalReviews": 23
   },
   {
     "reviewer": "colek42",
-    "totalReviews": 25
+    "totalReviews": 23
   },
   {
     "reviewer": "Vyom-Yadav",
@@ -23,10 +23,6 @@
   {
     "reviewer": "stupendoussuperpowers",
     "totalReviews": 5
-  },
-  {
-    "reviewer": "matglas",
-    "totalReviews": 4
   },
   {
     "reviewer": "manzil-infinity180",
@@ -49,7 +45,7 @@
     "totalReviews": 2
   },
   {
-    "reviewer": "github-advanced-security",
+    "reviewer": "matglas",
     "totalReviews": 1
   },
   {
@@ -64,11 +60,7 @@
     "commenterStats": [
   {
     "commenter": "jkjell",
-    "totalComments": 49
-  },
-  {
-    "commenter": "colek42",
-    "totalComments": 17
+    "totalComments": 48
   },
   {
     "commenter": "Vyom-Yadav",
@@ -83,16 +75,20 @@
     "totalComments": 13
   },
   {
-    "commenter": "mikhailswift",
-    "totalComments": 6
+    "commenter": "colek42",
+    "totalComments": 12
   },
   {
     "commenter": "stupendoussuperpowers",
     "totalComments": 5
   },
   {
-    "commenter": "matglas",
+    "commenter": "mikhailswift",
     "totalComments": 5
+  },
+  {
+    "commenter": "matglas",
+    "totalComments": 3
   },
   {
     "commenter": "manzil-infinity180",
@@ -116,6 +112,54 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 732,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
+  {
+    "prNumber": 730,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
+  {
+    "prNumber": 729,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
+  {
+    "prNumber": 728,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
+  {
+    "prNumber": 727,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
+  {
+    "prNumber": 726,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
+  {
+    "prNumber": 725,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
+  {
+    "prNumber": 724,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
   {
     "prNumber": 723,
     "author": "app/dependabot",
@@ -2652,138 +2696,6 @@
       }
     ],
     "commenters": []
-  },
-  {
-    "prNumber": 514,
-    "author": "colek42",
-    "reviewers": [
-      {
-        "reviewer": "colek42",
-        "count": 2
-      },
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      },
-      {
-        "reviewer": "matglas",
-        "count": 2
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "colek42",
-        "count": 2
-      },
-      {
-        "commenter": "matglas",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 513,
-    "author": "colek42",
-    "reviewers": [
-      {
-        "reviewer": "github-advanced-security",
-        "count": 1
-      },
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      },
-      {
-        "reviewer": "matglas",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "colek42",
-        "count": 1
-      },
-      {
-        "commenter": "matglas",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 511,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 510,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "jkjell",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 509,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 508,
-    "author": "colek42",
-    "reviewers": [],
-    "commenters": []
-  },
-  {
-    "prNumber": 507,
-    "author": "colek42",
-    "reviewers": [
-      {
-        "reviewer": "mikhailswift",
-        "count": 3
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "colek42",
-        "count": 2
-      }
-    ]
-  },
-  {
-    "prNumber": 506,
-    "author": "colek42",
-    "reviewers": [
-      {
-        "reviewer": "mikhailswift",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "mikhailswift",
-        "count": 1
-      }
-    ]
   }
 ]
 }
