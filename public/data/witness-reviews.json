@@ -52,7 +52,7 @@
   },
   {
     "commenter": "jkjell",
-    "totalComments": 32
+    "totalComments": 33
   },
   {
     "commenter": "colek42",
@@ -555,6 +555,10 @@
     "commenters": [
       {
         "commenter": "Jaydeep869",
+        "count": 1
+      },
+      {
+        "commenter": "jkjell",
         "count": 1
       },
       {
