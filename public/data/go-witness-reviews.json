@@ -25,12 +25,12 @@
     "totalReviews": 5
   },
   {
-    "reviewer": "manzil-infinity180",
-    "totalReviews": 4
+    "reviewer": "kusari-inspector",
+    "totalReviews": 5
   },
   {
-    "reviewer": "kusari-inspector",
-    "totalReviews": 3
+    "reviewer": "manzil-infinity180",
+    "totalReviews": 4
   },
   {
     "reviewer": "kriscoleman",
@@ -63,12 +63,12 @@
     "totalComments": 20
   },
   {
-    "commenter": "Vyom-Yadav",
+    "commenter": "kusari-inspector",
     "totalComments": 17
   },
   {
-    "commenter": "kusari-inspector",
-    "totalComments": 15
+    "commenter": "Vyom-Yadav",
+    "totalComments": 17
   },
   {
     "commenter": "colek42",
@@ -91,12 +91,12 @@
     "totalComments": 3
   },
   {
-    "commenter": "kriscoleman",
+    "commenter": "jas4711",
     "totalComments": 2
   },
   {
-    "commenter": "jas4711",
-    "totalComments": 2
+    "commenter": "kriscoleman",
+    "totalComments": 1
   },
   {
     "commenter": "jondkent",
@@ -108,6 +108,22 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 748,
+    "author": "jkjell",
+    "reviewers": [
+      {
+        "reviewer": "kusari-inspector",
+        "count": 2
+      }
+    ],
+    "commenters": [
+      {
+        "commenter": "kusari-inspector",
+        "count": 2
+      }
+    ]
+  },
   {
     "prNumber": 747,
     "author": "arpitjain099",
@@ -2787,17 +2803,6 @@
       }
     ],
     "commenters": []
-  },
-  {
-    "prNumber": 530,
-    "author": "kriscoleman",
-    "reviewers": [],
-    "commenters": [
-      {
-        "commenter": "kriscoleman",
-        "count": 1
-      }
-    ]
   }
 ]
 }
