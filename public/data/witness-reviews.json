@@ -6,7 +6,7 @@
   },
   {
     "reviewer": "mikhailswift",
-    "totalReviews": 30
+    "totalReviews": 31
   },
   {
     "reviewer": "colek42",
@@ -305,7 +305,12 @@
   {
     "prNumber": 775,
     "author": "Vyom-Yadav",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "mikhailswift",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "netlify",
