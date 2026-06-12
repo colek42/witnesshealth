@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-11T00:56:03.365Z",
+  "generated": "2026-06-12T00:59:33.923Z",
   "topMaintainers": [
     {
       "name": "mikhailswift",
@@ -101,12 +101,12 @@
     },
     {
       "name": "jkjell",
-      "totalPRs": 82,
+      "totalPRs": 85,
       "firstPR": "2023-09-21T20:25:51Z",
       "lastPR": "2026-06-06T00:29:13Z",
-      "avgMonthlyPRs": "3.9",
+      "avgMonthlyPRs": "4.0",
       "maxMonthlyPRs": 10,
-      "recentAvg": "2.0",
+      "recentAvg": "3.0",
       "trend": "decreasing",
       "gaps": [
         {
@@ -148,11 +148,11 @@
       "longestGap": 4,
       "repoActivity": {
         "witness": 27,
-        "go-witness": 29,
-        "archivista": 26
+        "go-witness": 31,
+        "archivista": 27
       },
       "monthlyActivity": {
-        "2026-06": 1,
+        "2026-06": 4,
         "2026-04": 2,
         "2026-01": 1,
         "2025-10": 5,
@@ -372,10 +372,10 @@
     },
     {
       "name": "fkautz",
-      "totalPRs": 19,
+      "totalPRs": 20,
       "firstPR": "2022-06-20T20:34:36Z",
-      "lastPR": "2024-06-01T04:50:49Z",
-      "avgMonthlyPRs": "1.6",
+      "lastPR": "2026-06-11T17:06:26Z",
+      "avgMonthlyPRs": "1.5",
       "maxMonthlyPRs": 4,
       "recentAvg": "1.7",
       "trend": "increasing",
@@ -419,15 +419,21 @@
           "start": "2025-10",
           "end": "2026-01",
           "duration": 2
+        },
+        {
+          "start": "2026-01",
+          "end": "2026-06",
+          "duration": 4
         }
       ],
       "longestGap": 7,
       "repoActivity": {
-        "witness": 1,
+        "witness": 2,
         "go-witness": 9,
         "archivista": 9
       },
       "monthlyActivity": {
+        "2026-06": 1,
         "2024-06": 3,
         "2026-01": 3,
         "2025-10": 1,
@@ -524,12 +530,12 @@
       "count": 8
     },
     {
-      "pair": "kairoaraujo & matglas",
+      "pair": "fkautz & jkjell",
       "count": 7
     },
     {
-      "pair": "fkautz & jkjell",
-      "count": 6
+      "pair": "kairoaraujo & matglas",
+      "count": 7
     },
     {
       "pair": "matglas & mikhailswift",
