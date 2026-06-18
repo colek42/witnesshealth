@@ -9,11 +9,11 @@
     "totalReviews": 27
   },
   {
-    "reviewer": "colek42",
-    "totalReviews": 20
+    "reviewer": "Vyom-Yadav",
+    "totalReviews": 21
   },
   {
-    "reviewer": "Vyom-Yadav",
+    "reviewer": "colek42",
     "totalReviews": 20
   },
   {
@@ -135,7 +135,12 @@
   {
     "prNumber": 758,
     "author": "Vyom-Yadav",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "Vyom-Yadav",
+        "count": 1
+      }
+    ],
     "commenters": []
   },
   {
