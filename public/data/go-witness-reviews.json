@@ -64,7 +64,7 @@
   },
   {
     "commenter": "Vyom-Yadav",
-    "totalComments": 18
+    "totalComments": 19
   },
   {
     "commenter": "kusari-inspector",
@@ -112,7 +112,12 @@
     "prNumber": 766,
     "author": "jkjell",
     "reviewers": [],
-    "commenters": []
+    "commenters": [
+      {
+        "commenter": "Vyom-Yadav",
+        "count": 1
+      }
+    ]
   },
   {
     "prNumber": 765,
