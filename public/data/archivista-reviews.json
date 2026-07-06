@@ -5,16 +5,16 @@
     "totalReviews": 134
   },
   {
+    "reviewer": "kairoaraujo",
+    "totalReviews": 10
+  },
+  {
     "reviewer": "mikhailswift",
     "totalReviews": 6
   },
   {
     "reviewer": "colek42",
     "totalReviews": 6
-  },
-  {
-    "reviewer": "kairoaraujo",
-    "totalReviews": 4
   },
   {
     "reviewer": "kriscoleman",
@@ -36,7 +36,7 @@
   },
   {
     "commenter": "dependabot",
-    "totalComments": 52
+    "totalComments": 53
   },
   {
     "commenter": "kusari-inspector",
@@ -48,7 +48,7 @@
   },
   {
     "commenter": "netlify",
-    "totalComments": 6
+    "totalComments": 7
   },
   {
     "commenter": "colek42",
@@ -59,23 +59,28 @@
     "totalComments": 4
   },
   {
+    "commenter": "kairoaraujo",
+    "totalComments": 3
+  },
+  {
     "commenter": "bradbeck",
     "totalComments": 3
   },
   {
     "commenter": "kriscoleman",
     "totalComments": 2
-  },
-  {
-    "commenter": "kairoaraujo",
-    "totalComments": 1
   }
 ],
     "prReviews": [
   {
     "prNumber": 800,
     "author": "app/dependabot",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "kairoaraujo",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "netlify",
@@ -86,7 +91,12 @@
   {
     "prNumber": 799,
     "author": "app/dependabot",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "kairoaraujo",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "netlify",
@@ -97,7 +107,12 @@
   {
     "prNumber": 798,
     "author": "app/dependabot",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "kairoaraujo",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "netlify",
@@ -108,7 +123,12 @@
   {
     "prNumber": 797,
     "author": "app/dependabot",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "kairoaraujo",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "netlify",
@@ -119,7 +139,12 @@
   {
     "prNumber": 796,
     "author": "app/dependabot",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "kairoaraujo",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "netlify",
@@ -133,10 +158,18 @@
     "reviewers": [
       {
         "reviewer": "kairoaraujo",
-        "count": 1
+        "count": 2
       }
     ],
     "commenters": [
+      {
+        "commenter": "dependabot",
+        "count": 1
+      },
+      {
+        "commenter": "kairoaraujo",
+        "count": 2
+      },
       {
         "commenter": "netlify",
         "count": 1
@@ -1901,6 +1934,10 @@
     "commenters": [
       {
         "commenter": "codecov",
+        "count": 1
+      },
+      {
+        "commenter": "netlify",
         "count": 1
       }
     ]
