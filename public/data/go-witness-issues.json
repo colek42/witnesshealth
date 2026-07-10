@@ -1,7 +1,7 @@
 {
-    "openIssues": 31,
-    "closedIssues": 20,
-    "openPRs": 25,
+    "openIssues": 30,
+    "closedIssues": 21,
+    "openPRs": 17,
     "monthlyClosed": [
   {
     "month": "2024-01",
@@ -58,6 +58,10 @@
   {
     "month": "2026-05",
     "count": 3
+  },
+  {
+    "month": "2026-07",
+    "count": 1
   }
 ]
 }

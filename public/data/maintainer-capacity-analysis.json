@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-09T02:55:56.928Z",
+  "generated": "2026-07-10T02:58:26.369Z",
   "topMaintainers": [
     {
       "name": "mikhailswift",
@@ -101,12 +101,12 @@
     },
     {
       "name": "jkjell",
-      "totalPRs": 85,
+      "totalPRs": 86,
       "firstPR": "2023-09-21T20:25:51Z",
       "lastPR": "2026-06-06T00:29:13Z",
-      "avgMonthlyPRs": "4.0",
+      "avgMonthlyPRs": "3.9",
       "maxMonthlyPRs": 10,
-      "recentAvg": "3.0",
+      "recentAvg": "2.7",
       "trend": "decreasing",
       "gaps": [
         {
@@ -148,7 +148,7 @@
       "longestGap": 4,
       "repoActivity": {
         "witness": 27,
-        "go-witness": 31,
+        "go-witness": 32,
         "archivista": 27
       },
       "monthlyActivity": {
@@ -165,6 +165,7 @@
         "2024-01": 8,
         "2023-12": 10,
         "2023-11": 5,
+        "2026-07": 1,
         "2026-05": 3,
         "2026-03": 2,
         "2025-05": 2,
