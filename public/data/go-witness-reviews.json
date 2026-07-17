@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 143
+    "totalReviews": 144
   },
   {
     "reviewer": "mikhailswift",
@@ -451,6 +451,10 @@
       {
         "reviewer": "Vyom-Yadav",
         "count": 2
+      },
+      {
+        "reviewer": "jkjell",
+        "count": 1
       }
     ],
     "commenters": []
