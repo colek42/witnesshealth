@@ -6,7 +6,7 @@
   },
   {
     "reviewer": "kairoaraujo",
-    "totalReviews": 10
+    "totalReviews": 11
   },
   {
     "reviewer": "mikhailswift",
@@ -161,7 +161,12 @@
   {
     "prNumber": 804,
     "author": "app/dependabot",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "kairoaraujo",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "jkjell",
