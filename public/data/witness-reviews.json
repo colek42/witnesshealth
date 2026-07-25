@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 129
+    "totalReviews": 130
   },
   {
     "reviewer": "mikhailswift",
@@ -29,6 +29,10 @@
     "totalReviews": 2
   },
   {
+    "reviewer": "copilot-pull-request-reviewer",
+    "totalReviews": 2
+  },
+  {
     "reviewer": "kusari-inspector",
     "totalReviews": 1
   },
@@ -38,10 +42,6 @@
   },
   {
     "reviewer": "fkautz",
-    "totalReviews": 1
-  },
-  {
-    "reviewer": "copilot-pull-request-reviewer",
     "totalReviews": 1
   },
   {
@@ -101,6 +101,10 @@
   {
     "commenter": "suzuki-shunsuke",
     "totalComments": 1
+  },
+  {
+    "commenter": "aurianecodebien",
+    "totalComments": 1
   }
 ],
     "prReviews": [
@@ -110,6 +114,10 @@
     "reviewers": [
       {
         "reviewer": "copilot-pull-request-reviewer",
+        "count": 2
+      },
+      {
+        "reviewer": "jkjell",
         "count": 1
       },
       {
@@ -118,6 +126,10 @@
       }
     ],
     "commenters": [
+      {
+        "commenter": "aurianecodebien",
+        "count": 1
+      },
       {
         "commenter": "jkjell",
         "count": 1
