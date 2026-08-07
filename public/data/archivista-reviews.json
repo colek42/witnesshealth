@@ -18,7 +18,7 @@
   },
   {
     "reviewer": "copilot-pull-request-reviewer",
-    "totalReviews": 3
+    "totalReviews": 4
   },
   {
     "reviewer": "kusari-inspector",
@@ -2277,7 +2277,7 @@
     "reviewers": [
       {
         "reviewer": "copilot-pull-request-reviewer",
-        "count": 3
+        "count": 4
       }
     ],
     "commenters": [
