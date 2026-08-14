@@ -95,6 +95,10 @@
     "totalComments": 1
   },
   {
+    "commenter": "pujitha24",
+    "totalComments": 1
+  },
+  {
     "commenter": "matglas",
     "totalComments": 1
   },
@@ -138,6 +142,10 @@
     "commenters": [
       {
         "commenter": "netlify",
+        "count": 1
+      },
+      {
+        "commenter": "pujitha24",
         "count": 1
       }
     ]
