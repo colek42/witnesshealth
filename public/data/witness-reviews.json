@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 126
+    "totalReviews": 127
   },
   {
     "reviewer": "mikhailswift",
@@ -137,6 +137,10 @@
       {
         "reviewer": "copilot-pull-request-reviewer",
         "count": 2
+      },
+      {
+        "reviewer": "jkjell",
+        "count": 1
       }
     ],
     "commenters": [
