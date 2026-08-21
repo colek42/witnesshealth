@@ -83,6 +83,10 @@
     "totalComments": 2
   },
   {
+    "commenter": "0rkz",
+    "totalComments": 2
+  },
+  {
     "commenter": "shmulik-apiiro",
     "totalComments": 1
   },
@@ -92,10 +96,6 @@
   },
   {
     "commenter": "arpitjain099",
-    "totalComments": 1
-  },
-  {
-    "commenter": "0rkz",
     "totalComments": 1
   }
 ],
@@ -137,7 +137,7 @@
     "commenters": [
       {
         "commenter": "0rkz",
-        "count": 1
+        "count": 2
       },
       {
         "commenter": "shmulik-apiiro",
