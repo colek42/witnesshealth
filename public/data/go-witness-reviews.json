@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 131
+    "totalReviews": 129
   },
   {
     "reviewer": "Vyom-Yadav",
@@ -21,10 +21,6 @@
     "totalReviews": 5
   },
   {
-    "reviewer": "colek42",
-    "totalReviews": 2
-  },
-  {
     "reviewer": "adityasaky",
     "totalReviews": 2
   },
@@ -33,19 +29,15 @@
     "totalReviews": 1
   },
   {
-    "reviewer": "kriscoleman",
-    "totalReviews": 1
-  },
-  {
     "reviewer": "github-advanced-security",
     "totalReviews": 1
   },
   {
-    "reviewer": "fkautz",
+    "reviewer": "copilot-pull-request-reviewer",
     "totalReviews": 1
   },
   {
-    "reviewer": "copilot-pull-request-reviewer",
+    "reviewer": "colek42",
     "totalReviews": 1
   }
 ],
@@ -100,6 +92,12 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 825,
+    "author": "bradbeck",
+    "reviewers": [],
+    "commenters": []
+  },
   {
     "prNumber": 824,
     "author": "stupendoussuperpowers",
@@ -2703,29 +2701,6 @@
     "reviewers": [
       {
         "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 614,
-    "author": "fkautz",
-    "reviewers": [
-      {
-        "reviewer": "colek42",
-        "count": 1
-      },
-      {
-        "reviewer": "fkautz",
-        "count": 1
-      },
-      {
-        "reviewer": "jkjell",
-        "count": 2
-      },
-      {
-        "reviewer": "kriscoleman",
         "count": 1
       }
     ],
