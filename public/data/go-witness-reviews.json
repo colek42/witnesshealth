@@ -93,6 +93,12 @@
 ],
     "prReviews": [
   {
+    "prNumber": 826,
+    "author": "app/copilot-swe-agent",
+    "reviewers": [],
+    "commenters": []
+  },
+  {
     "prNumber": 825,
     "author": "bradbeck",
     "reviewers": [],
@@ -208,7 +214,12 @@
   {
     "prNumber": 811,
     "author": "app/dependabot",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
     "commenters": []
   },
   {
@@ -2686,17 +2697,6 @@
   },
   {
     "prNumber": 616,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 615,
     "author": "app/dependabot",
     "reviewers": [
       {

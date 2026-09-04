@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 117
+    "totalReviews": 121
   },
   {
     "reviewer": "kairoaraujo",
@@ -32,15 +32,15 @@
     "commenterStats": [
   {
     "commenter": "dependabot",
-    "totalComments": 63
+    "totalComments": 65
   },
   {
     "commenter": "jkjell",
-    "totalComments": 53
+    "totalComments": 56
   },
   {
     "commenter": "netlify",
-    "totalComments": 45
+    "totalComments": 46
   },
   {
     "commenter": "kusari-inspector",
@@ -68,6 +68,17 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 839,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
   {
     "prNumber": 838,
     "author": "app/dependabot",
@@ -100,6 +111,14 @@
     "reviewers": [],
     "commenters": [
       {
+        "commenter": "dependabot",
+        "count": 1
+      },
+      {
+        "commenter": "jkjell",
+        "count": 1
+      },
+      {
         "commenter": "netlify",
         "count": 1
       }
@@ -108,8 +127,17 @@
   {
     "prNumber": 835,
     "author": "app/dependabot",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
     "commenters": [
+      {
+        "commenter": "jkjell",
+        "count": 1
+      },
       {
         "commenter": "netlify",
         "count": 1
@@ -119,7 +147,12 @@
   {
     "prNumber": 834,
     "author": "app/dependabot",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "netlify",
@@ -130,7 +163,12 @@
   {
     "prNumber": 833,
     "author": "app/dependabot",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "netlify",
@@ -144,6 +182,14 @@
     "reviewers": [],
     "commenters": [
       {
+        "commenter": "dependabot",
+        "count": 1
+      },
+      {
+        "commenter": "jkjell",
+        "count": 1
+      },
+      {
         "commenter": "netlify",
         "count": 1
       }
@@ -152,7 +198,12 @@
   {
     "prNumber": 831,
     "author": "app/dependabot",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "netlify",
@@ -163,7 +214,12 @@
   {
     "prNumber": 830,
     "author": "app/github-actions",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "netlify",
@@ -2747,17 +2803,6 @@
         "count": 2
       }
     ]
-  },
-  {
-    "prNumber": 638,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
   }
 ]
 }
