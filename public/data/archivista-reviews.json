@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 124
+    "totalReviews": 120
   },
   {
     "reviewer": "kairoaraujo",
@@ -40,7 +40,7 @@
   },
   {
     "commenter": "netlify",
-    "totalComments": 46
+    "totalComments": 51
   },
   {
     "commenter": "kusari-inspector",
@@ -52,11 +52,11 @@
   },
   {
     "commenter": "codecov",
-    "totalComments": 6
+    "totalComments": 4
   },
   {
     "commenter": "manzil-infinity180",
-    "totalComments": 4
+    "totalComments": 2
   },
   {
     "commenter": "kairoaraujo",
@@ -68,6 +68,61 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 844,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "prNumber": 843,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "prNumber": 842,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "prNumber": 841,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "prNumber": 840,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
   {
     "prNumber": 839,
     "author": "app/dependabot",
@@ -2754,70 +2809,6 @@
       }
     ],
     "commenters": []
-  },
-  {
-    "prNumber": 643,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 642,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 641,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 640,
-    "author": "manzil-infinity180",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "codecov",
-        "count": 1
-      }
-    ]
-  },
-  {
-    "prNumber": 639,
-    "author": "manzil-infinity180",
-    "reviewers": [],
-    "commenters": [
-      {
-        "commenter": "codecov",
-        "count": 1
-      },
-      {
-        "commenter": "manzil-infinity180",
-        "count": 2
-      }
-    ]
   }
 ]
 }
