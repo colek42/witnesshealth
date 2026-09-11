@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 124
+    "totalReviews": 123
   },
   {
     "reviewer": "Vyom-Yadav",
@@ -44,7 +44,7 @@
     "commenterStats": [
   {
     "commenter": "jkjell",
-    "totalComments": 66
+    "totalComments": 65
   },
   {
     "commenter": "dependabot",
@@ -89,9 +89,19 @@
   {
     "commenter": "arpitjain099",
     "totalComments": 1
+  },
+  {
+    "commenter": "Eljees",
+    "totalComments": 1
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 833,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": []
+  },
   {
     "prNumber": 832,
     "author": "app/dependabot",
@@ -132,6 +142,10 @@
       }
     ],
     "commenters": [
+      {
+        "commenter": "Eljees",
+        "count": 1
+      },
       {
         "commenter": "colek42",
         "count": 1
@@ -2694,22 +2708,6 @@
       }
     ],
     "commenters": []
-  },
-  {
-    "prNumber": 622,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": [
-      {
-        "commenter": "jkjell",
-        "count": 1
-      }
-    ]
   }
 ]
 }
