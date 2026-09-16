@@ -10,7 +10,7 @@
   },
   {
     "reviewer": "mikhailswift",
-    "totalReviews": 21
+    "totalReviews": 23
   },
   {
     "reviewer": "stupendoussuperpowers",
@@ -60,7 +60,7 @@
   },
   {
     "commenter": "mikhailswift",
-    "totalComments": 9
+    "totalComments": 11
   },
   {
     "commenter": "stupendoussuperpowers",
@@ -328,6 +328,10 @@
     "reviewers": [
       {
         "reviewer": "Vyom-Yadav",
+        "count": 1
+      },
+      {
+        "reviewer": "mikhailswift",
         "count": 1
       }
     ],
@@ -939,8 +943,17 @@
   {
     "prNumber": 755,
     "author": "stupendoussuperpowers",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "mikhailswift",
+        "count": 1
+      }
+    ],
     "commenters": [
+      {
+        "commenter": "mikhailswift",
+        "count": 2
+      },
       {
         "commenter": "stupendoussuperpowers",
         "count": 1
