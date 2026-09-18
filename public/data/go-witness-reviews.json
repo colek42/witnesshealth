@@ -68,7 +68,7 @@
   },
   {
     "commenter": "colek42",
-    "totalComments": 4
+    "totalComments": 5
   },
   {
     "commenter": "matglas",
@@ -101,6 +101,10 @@
     "author": "colek42",
     "reviewers": [],
     "commenters": [
+      {
+        "commenter": "colek42",
+        "count": 1
+      },
       {
         "commenter": "stupendoussuperpowers",
         "count": 1
