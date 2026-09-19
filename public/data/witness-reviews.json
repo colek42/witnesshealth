@@ -2,11 +2,11 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 127
+    "totalReviews": 128
   },
   {
     "reviewer": "mikhailswift",
-    "totalReviews": 25
+    "totalReviews": 27
   },
   {
     "reviewer": "colek42",
@@ -60,7 +60,7 @@
   },
   {
     "commenter": "jkjell",
-    "totalComments": 34
+    "totalComments": 35
   },
   {
     "commenter": "manzil-infinity180",
@@ -111,8 +111,21 @@
   {
     "prNumber": 820,
     "author": "colek42",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      },
+      {
+        "reviewer": "mikhailswift",
+        "count": 1
+      }
+    ],
     "commenters": [
+      {
+        "commenter": "jkjell",
+        "count": 1
+      },
       {
         "commenter": "netlify",
         "count": 1
@@ -137,6 +150,10 @@
       },
       {
         "reviewer": "jkjell",
+        "count": 1
+      },
+      {
+        "reviewer": "mikhailswift",
         "count": 1
       }
     ],

@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 120
+    "totalReviews": 122
   },
   {
     "reviewer": "Vyom-Yadav",
@@ -10,7 +10,7 @@
   },
   {
     "reviewer": "mikhailswift",
-    "totalReviews": 23
+    "totalReviews": 25
   },
   {
     "reviewer": "stupendoussuperpowers",
@@ -114,7 +114,16 @@
   {
     "prNumber": 835,
     "author": "colek42",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      },
+      {
+        "reviewer": "mikhailswift",
+        "count": 1
+      }
+    ],
     "commenters": []
   },
   {
@@ -123,6 +132,14 @@
     "reviewers": [
       {
         "reviewer": "colek42",
+        "count": 1
+      },
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      },
+      {
+        "reviewer": "mikhailswift",
         "count": 1
       }
     ],
