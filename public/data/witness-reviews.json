@@ -6,11 +6,11 @@
   },
   {
     "reviewer": "mikhailswift",
-    "totalReviews": 27
+    "totalReviews": 28
   },
   {
     "reviewer": "colek42",
-    "totalReviews": 13
+    "totalReviews": 15
   },
   {
     "reviewer": "adityasaky",
@@ -63,12 +63,12 @@
     "totalComments": 35
   },
   {
-    "commenter": "manzil-infinity180",
-    "totalComments": 18
+    "commenter": "colek42",
+    "totalComments": 19
   },
   {
-    "commenter": "colek42",
-    "totalComments": 17
+    "commenter": "manzil-infinity180",
+    "totalComments": 18
   },
   {
     "commenter": "mikhailswift",
@@ -157,7 +157,7 @@
       },
       {
         "reviewer": "colek42",
-        "count": 1
+        "count": 3
       },
       {
         "reviewer": "jkjell",
@@ -165,7 +165,7 @@
       },
       {
         "reviewer": "mikhailswift",
-        "count": 1
+        "count": 2
       }
     ],
     "commenters": [
@@ -175,7 +175,7 @@
       },
       {
         "commenter": "colek42",
-        "count": 2
+        "count": 4
       },
       {
         "commenter": "jkjell",
