@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 122
+    "totalReviews": 121
   },
   {
     "reviewer": "Vyom-Yadav",
@@ -14,7 +14,7 @@
   },
   {
     "reviewer": "stupendoussuperpowers",
-    "totalReviews": 11
+    "totalReviews": 12
   },
   {
     "reviewer": "kusari-inspector",
@@ -64,7 +64,7 @@
   },
   {
     "commenter": "stupendoussuperpowers",
-    "totalComments": 9
+    "totalComments": 10
   },
   {
     "commenter": "colek42",
@@ -96,6 +96,17 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 837,
+    "author": "stupendoussuperpowers",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "stupendoussuperpowers",
+        "count": 1
+      }
+    ]
+  },
   {
     "prNumber": 836,
     "author": "colek42",
@@ -696,6 +707,10 @@
       },
       {
         "reviewer": "github-advanced-security",
+        "count": 1
+      },
+      {
+        "reviewer": "stupendoussuperpowers",
         "count": 1
       }
     ],
@@ -2745,17 +2760,6 @@
         "count": 1
       }
     ]
-  },
-  {
-    "prNumber": 626,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
   }
 ]
 }
