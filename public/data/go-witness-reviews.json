@@ -6,7 +6,7 @@
   },
   {
     "reviewer": "Vyom-Yadav",
-    "totalReviews": 26
+    "totalReviews": 38
   },
   {
     "reviewer": "mikhailswift",
@@ -52,7 +52,7 @@
   },
   {
     "commenter": "Vyom-Yadav",
-    "totalComments": 27
+    "totalComments": 28
   },
   {
     "commenter": "kusari-inspector",
@@ -99,8 +99,18 @@
   {
     "prNumber": 838,
     "author": "stupendoussuperpowers",
-    "reviewers": [],
-    "commenters": []
+    "reviewers": [
+      {
+        "reviewer": "Vyom-Yadav",
+        "count": 1
+      }
+    ],
+    "commenters": [
+      {
+        "commenter": "Vyom-Yadav",
+        "count": 1
+      }
+    ]
   },
   {
     "prNumber": 837,
@@ -714,7 +724,7 @@
     "reviewers": [
       {
         "reviewer": "Vyom-Yadav",
-        "count": 2
+        "count": 13
       },
       {
         "reviewer": "github-advanced-security",
