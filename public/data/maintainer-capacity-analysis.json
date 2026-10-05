@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-04T04:30:37.904Z",
+  "generated": "2026-10-05T04:16:12.380Z",
   "topMaintainers": [
     {
       "name": "mikhailswift",
@@ -177,56 +177,11 @@
       }
     },
     {
-      "name": "ChaosInTheCRD",
-      "totalPRs": 55,
-      "firstPR": "2023-12-13T12:38:40Z",
-      "lastPR": "2025-07-29T15:56:51Z",
-      "avgMonthlyPRs": "5.5",
-      "maxMonthlyPRs": 13,
-      "recentAvg": "2.0",
-      "trend": "decreasing significantly",
-      "gaps": [
-        {
-          "start": "2024-06",
-          "end": "2024-08",
-          "duration": 1
-        },
-        {
-          "start": "2024-08",
-          "end": "2025-03",
-          "duration": 6
-        },
-        {
-          "start": "2025-03",
-          "end": "2025-07",
-          "duration": 3
-        }
-      ],
-      "longestGap": 6,
-      "repoActivity": {
-        "witness": 25,
-        "go-witness": 29,
-        "archivista": 1
-      },
-      "monthlyActivity": {
-        "2025-07": 1,
-        "2024-06": 1,
-        "2024-05": 13,
-        "2024-04": 2,
-        "2024-03": 3,
-        "2024-02": 7,
-        "2024-01": 10,
-        "2023-12": 13,
-        "2025-03": 3,
-        "2024-08": 2
-      }
-    },
-    {
       "name": "colek42",
-      "totalPRs": 54,
+      "totalPRs": 55,
       "firstPR": "2022-05-05T01:13:35Z",
       "lastPR": "2026-09-21T12:53:14Z",
-      "avgMonthlyPRs": "2.6",
+      "avgMonthlyPRs": "2.5",
       "maxMonthlyPRs": 11,
       "recentAvg": "2.0",
       "trend": "decreasing",
@@ -270,7 +225,7 @@
       "longestGap": 14,
       "repoActivity": {
         "witness": 34,
-        "go-witness": 17,
+        "go-witness": 18,
         "archivista": 3
       },
       "monthlyActivity": {
@@ -289,12 +244,58 @@
         "2022-02": 6,
         "2022-01": 4,
         "2021-12": 5,
+        "2026-10": 1,
         "2025-04": 1,
         "2025-03": 1,
         "2024-04": 1,
         "2022-10": 1,
         "2022-09": 3,
         "2023-03": 1
+      }
+    },
+    {
+      "name": "ChaosInTheCRD",
+      "totalPRs": 55,
+      "firstPR": "2023-12-13T12:38:40Z",
+      "lastPR": "2025-07-29T15:56:51Z",
+      "avgMonthlyPRs": "5.5",
+      "maxMonthlyPRs": 13,
+      "recentAvg": "2.0",
+      "trend": "decreasing significantly",
+      "gaps": [
+        {
+          "start": "2024-06",
+          "end": "2024-08",
+          "duration": 1
+        },
+        {
+          "start": "2024-08",
+          "end": "2025-03",
+          "duration": 6
+        },
+        {
+          "start": "2025-03",
+          "end": "2025-07",
+          "duration": 3
+        }
+      ],
+      "longestGap": 6,
+      "repoActivity": {
+        "witness": 25,
+        "go-witness": 29,
+        "archivista": 1
+      },
+      "monthlyActivity": {
+        "2025-07": 1,
+        "2024-06": 1,
+        "2024-05": 13,
+        "2024-04": 2,
+        "2024-03": 3,
+        "2024-02": 7,
+        "2024-01": 10,
+        "2023-12": 13,
+        "2025-03": 3,
+        "2024-08": 2
       }
     },
     {
@@ -565,17 +566,17 @@
       ]
     },
     {
-      "name": "ChaosInTheCRD",
-      "factors": [
-        "Activity decreasing significantly",
-        "Had 6-month gap"
-      ]
-    },
-    {
       "name": "colek42",
       "factors": [
         "Activity decreasing",
         "Had 14-month gap"
+      ]
+    },
+    {
+      "name": "ChaosInTheCRD",
+      "factors": [
+        "Activity decreasing significantly",
+        "Had 6-month gap"
       ]
     },
     {

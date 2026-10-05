@@ -6,7 +6,7 @@
   },
   {
     "reviewer": "Vyom-Yadav",
-    "totalReviews": 38
+    "totalReviews": 39
   },
   {
     "reviewer": "mikhailswift",
@@ -14,7 +14,7 @@
   },
   {
     "reviewer": "stupendoussuperpowers",
-    "totalReviews": 12
+    "totalReviews": 13
   },
   {
     "reviewer": "kusari-inspector",
@@ -52,7 +52,7 @@
   },
   {
     "commenter": "Vyom-Yadav",
-    "totalComments": 28
+    "totalComments": 30
   },
   {
     "commenter": "kusari-inspector",
@@ -123,6 +123,10 @@
     ],
     "commenters": [
       {
+        "commenter": "Vyom-Yadav",
+        "count": 1
+      },
+      {
         "commenter": "stupendoussuperpowers",
         "count": 1
       }
@@ -131,8 +135,21 @@
   {
     "prNumber": 836,
     "author": "colek42",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "Vyom-Yadav",
+        "count": 1
+      },
+      {
+        "reviewer": "stupendoussuperpowers",
+        "count": 1
+      }
+    ],
     "commenters": [
+      {
+        "commenter": "Vyom-Yadav",
+        "count": 1
+      },
       {
         "commenter": "colek42",
         "count": 1
