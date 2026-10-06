@@ -6,7 +6,7 @@
   },
   {
     "reviewer": "Vyom-Yadav",
-    "totalReviews": 39
+    "totalReviews": 40
   },
   {
     "reviewer": "mikhailswift",
@@ -262,7 +262,12 @@
   {
     "prNumber": 826,
     "author": "app/copilot-swe-agent",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "Vyom-Yadav",
+        "count": 1
+      }
+    ],
     "commenters": []
   },
   {
