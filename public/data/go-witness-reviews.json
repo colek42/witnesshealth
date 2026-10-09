@@ -6,7 +6,7 @@
   },
   {
     "reviewer": "Vyom-Yadav",
-    "totalReviews": 28
+    "totalReviews": 29
   },
   {
     "reviewer": "mikhailswift",
@@ -14,7 +14,7 @@
   },
   {
     "reviewer": "stupendoussuperpowers",
-    "totalReviews": 11
+    "totalReviews": 12
   },
   {
     "reviewer": "kusari-inspector",
@@ -52,7 +52,7 @@
   },
   {
     "commenter": "Vyom-Yadav",
-    "totalComments": 17
+    "totalComments": 19
   },
   {
     "commenter": "mikhailswift",
@@ -63,12 +63,12 @@
     "totalComments": 9
   },
   {
-    "commenter": "colek42",
-    "totalComments": 6
+    "commenter": "stupendoussuperpowers",
+    "totalComments": 7
   },
   {
-    "commenter": "stupendoussuperpowers",
-    "totalComments": 5
+    "commenter": "colek42",
+    "totalComments": 7
   },
   {
     "commenter": "matglas",
@@ -84,6 +84,10 @@
   },
   {
     "commenter": "shmulik-apiiro",
+    "totalComments": 1
+  },
+  {
+    "commenter": "ruslan-shaydullin",
     "totalComments": 1
   },
   {
@@ -107,6 +111,10 @@
     "commenters": [
       {
         "commenter": "colek42",
+        "count": 2
+      },
+      {
+        "commenter": "ruslan-shaydullin",
         "count": 1
       }
     ]
@@ -117,14 +125,19 @@
     "reviewers": [
       {
         "reviewer": "Vyom-Yadav",
-        "count": 1
+        "count": 2
       },
       {
         "reviewer": "stupendoussuperpowers",
         "count": 1
       }
     ],
-    "commenters": []
+    "commenters": [
+      {
+        "commenter": "Vyom-Yadav",
+        "count": 1
+      }
+    ]
   },
   {
     "prNumber": 838,
@@ -328,7 +341,12 @@
         "count": 1
       }
     ],
-    "commenters": []
+    "commenters": [
+      {
+        "commenter": "stupendoussuperpowers",
+        "count": 1
+      }
+    ]
   },
   {
     "prNumber": 823,
@@ -488,11 +506,19 @@
       {
         "reviewer": "mikhailswift",
         "count": 1
+      },
+      {
+        "reviewer": "stupendoussuperpowers",
+        "count": 1
       }
     ],
     "commenters": [
       {
         "commenter": "Vyom-Yadav",
+        "count": 1
+      },
+      {
+        "commenter": "stupendoussuperpowers",
         "count": 1
       }
     ]
@@ -798,7 +824,7 @@
     "commenters": [
       {
         "commenter": "Vyom-Yadav",
-        "count": 1
+        "count": 2
       }
     ]
   },
