@@ -10,7 +10,7 @@
   },
   {
     "reviewer": "mikhailswift",
-    "totalReviews": 17
+    "totalReviews": 18
   },
   {
     "reviewer": "stupendoussuperpowers",
@@ -75,6 +75,10 @@
     "totalComments": 3
   },
   {
+    "commenter": "ruslan-shaydullin",
+    "totalComments": 2
+  },
+  {
     "commenter": "jas4711",
     "totalComments": 2
   },
@@ -84,10 +88,6 @@
   },
   {
     "commenter": "shmulik-apiiro",
-    "totalComments": 1
-  },
-  {
-    "commenter": "ruslan-shaydullin",
     "totalComments": 1
   },
   {
@@ -115,7 +115,7 @@
       },
       {
         "commenter": "ruslan-shaydullin",
-        "count": 1
+        "count": 2
       }
     ]
   },
@@ -213,7 +213,7 @@
       },
       {
         "reviewer": "mikhailswift",
-        "count": 1
+        "count": 2
       }
     ],
     "commenters": []
