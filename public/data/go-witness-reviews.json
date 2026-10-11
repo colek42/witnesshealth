@@ -14,7 +14,7 @@
   },
   {
     "reviewer": "stupendoussuperpowers",
-    "totalReviews": 12
+    "totalReviews": 13
   },
   {
     "reviewer": "kusari-inspector",
@@ -64,7 +64,7 @@
   },
   {
     "commenter": "stupendoussuperpowers",
-    "totalComments": 7
+    "totalComments": 8
   },
   {
     "commenter": "colek42",
@@ -152,6 +152,10 @@
       {
         "commenter": "Vyom-Yadav",
         "count": 1
+      },
+      {
+        "commenter": "stupendoussuperpowers",
+        "count": 1
       }
     ]
   },
@@ -214,6 +218,10 @@
       {
         "reviewer": "mikhailswift",
         "count": 2
+      },
+      {
+        "reviewer": "stupendoussuperpowers",
+        "count": 1
       }
     ],
     "commenters": []

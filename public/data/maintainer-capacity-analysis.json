@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T04:30:46.787Z",
+  "generated": "2026-10-11T04:14:01.460Z",
   "topMaintainers": [
     {
       "name": "mikhailswift",
@@ -178,12 +178,12 @@
     },
     {
       "name": "colek42",
-      "totalPRs": 55,
+      "totalPRs": 56,
       "firstPR": "2022-05-05T01:13:35Z",
       "lastPR": "2026-09-21T12:53:14Z",
       "avgMonthlyPRs": "2.5",
       "maxMonthlyPRs": 11,
-      "recentAvg": "2.0",
+      "recentAvg": "2.3",
       "trend": "decreasing",
       "gaps": [
         {
@@ -225,7 +225,7 @@
       "longestGap": 14,
       "repoActivity": {
         "witness": 34,
-        "go-witness": 18,
+        "go-witness": 19,
         "archivista": 3
       },
       "monthlyActivity": {
@@ -244,7 +244,7 @@
         "2022-02": 6,
         "2022-01": 4,
         "2021-12": 5,
-        "2026-10": 1,
+        "2026-10": 2,
         "2025-04": 1,
         "2025-03": 1,
         "2024-04": 1,
