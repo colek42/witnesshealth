@@ -14,7 +14,7 @@
   },
   {
     "reviewer": "stupendoussuperpowers",
-    "totalReviews": 15
+    "totalReviews": 16
   },
   {
     "reviewer": "kusari-inspector",
@@ -339,7 +339,12 @@
   {
     "prNumber": 825,
     "author": "bradbeck",
-    "reviewers": [],
+    "reviewers": [
+      {
+        "reviewer": "stupendoussuperpowers",
+        "count": 1
+      }
+    ],
     "commenters": [
       {
         "commenter": "Vyom-Yadav",
