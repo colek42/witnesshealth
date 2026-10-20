@@ -39,6 +39,10 @@
   {
     "reviewer": "copilot-pull-request-reviewer",
     "totalReviews": 1
+  },
+  {
+    "reviewer": "bradbeck",
+    "totalReviews": 1
   }
 ],
     "commenterStats": [
@@ -56,7 +60,7 @@
   },
   {
     "commenter": "stupendoussuperpowers",
-    "totalComments": 9
+    "totalComments": 10
   },
   {
     "commenter": "mikhailswift",
@@ -341,6 +345,10 @@
     "author": "bradbeck",
     "reviewers": [
       {
+        "reviewer": "bradbeck",
+        "count": 1
+      },
+      {
         "reviewer": "stupendoussuperpowers",
         "count": 1
       }
@@ -360,7 +368,7 @@
       },
       {
         "commenter": "stupendoussuperpowers",
-        "count": 1
+        "count": 2
       }
     ]
   },
