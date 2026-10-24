@@ -2,23 +2,23 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 120
+    "totalReviews": 114
   },
   {
     "reviewer": "Vyom-Yadav",
-    "totalReviews": 40
+    "totalReviews": 55
   },
   {
     "reviewer": "mikhailswift",
-    "totalReviews": 18
+    "totalReviews": 26
   },
   {
     "reviewer": "stupendoussuperpowers",
-    "totalReviews": 17
+    "totalReviews": 22
   },
   {
     "reviewer": "kusari-inspector",
-    "totalReviews": 3
+    "totalReviews": 5
   },
   {
     "reviewer": "colek42",
@@ -48,7 +48,7 @@
     "commenterStats": [
   {
     "commenter": "jkjell",
-    "totalComments": 63
+    "totalComments": 65
   },
   {
     "commenter": "dependabot",
@@ -56,19 +56,19 @@
   },
   {
     "commenter": "Vyom-Yadav",
-    "totalComments": 20
-  },
-  {
-    "commenter": "stupendoussuperpowers",
-    "totalComments": 11
-  },
-  {
-    "commenter": "mikhailswift",
-    "totalComments": 9
+    "totalComments": 35
   },
   {
     "commenter": "kusari-inspector",
-    "totalComments": 9
+    "totalComments": 17
+  },
+  {
+    "commenter": "stupendoussuperpowers",
+    "totalComments": 16
+  },
+  {
+    "commenter": "mikhailswift",
+    "totalComments": 11
   },
   {
     "commenter": "colek42",
@@ -979,17 +979,6 @@
   {
     "prNumber": 773,
     "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 772,
-    "author": "Jaydeep869",
     "reviewers": [
       {
         "reviewer": "jkjell",
@@ -1988,17 +1977,6 @@
     ]
   },
   {
-    "prNumber": 699,
-    "author": "Jaydeep869",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
-  },
-  {
     "prNumber": 697,
     "author": "app/dependabot",
     "reviewers": [
@@ -2108,28 +2086,6 @@
         "count": 1
       }
     ]
-  },
-  {
-    "prNumber": 689,
-    "author": "Jaydeep869",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 2
-      }
-    ],
-    "commenters": []
-  },
-  {
-    "prNumber": 688,
-    "author": "Jaydeep869",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 3
-      }
-    ],
-    "commenters": []
   },
   {
     "prNumber": 687,
@@ -2812,6 +2768,105 @@
       }
     ],
     "commenters": []
+  },
+  {
+    "prNumber": 630,
+    "author": "app/dependabot",
+    "reviewers": [
+      {
+        "reviewer": "jkjell",
+        "count": 1
+      }
+    ],
+    "commenters": []
+  },
+  {
+    "prNumber": 629,
+    "author": "Vyom-Yadav",
+    "reviewers": [
+      {
+        "reviewer": "Vyom-Yadav",
+        "count": 13
+      },
+      {
+        "reviewer": "mikhailswift",
+        "count": 1
+      },
+      {
+        "reviewer": "stupendoussuperpowers",
+        "count": 5
+      }
+    ],
+    "commenters": [
+      {
+        "commenter": "Vyom-Yadav",
+        "count": 12
+      },
+      {
+        "commenter": "jkjell",
+        "count": 2
+      },
+      {
+        "commenter": "kusari-inspector",
+        "count": 2
+      },
+      {
+        "commenter": "mikhailswift",
+        "count": 1
+      },
+      {
+        "commenter": "stupendoussuperpowers",
+        "count": 5
+      }
+    ]
+  },
+  {
+    "prNumber": 628,
+    "author": "Vyom-Yadav",
+    "reviewers": [
+      {
+        "reviewer": "kusari-inspector",
+        "count": 2
+      },
+      {
+        "reviewer": "mikhailswift",
+        "count": 4
+      }
+    ],
+    "commenters": [
+      {
+        "commenter": "Vyom-Yadav",
+        "count": 2
+      },
+      {
+        "commenter": "kusari-inspector",
+        "count": 6
+      },
+      {
+        "commenter": "mikhailswift",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "prNumber": 627,
+    "author": "Vyom-Yadav",
+    "reviewers": [
+      {
+        "reviewer": "Vyom-Yadav",
+        "count": 2
+      },
+      {
+        "reviewer": "mikhailswift",
+        "count": 3
+      }
+    ],
+    "commenters": [
+      {
+        "commenter": "Vyom-Yadav",
+        "count": 1
+      }
+    ]
   }
 ]
 }
