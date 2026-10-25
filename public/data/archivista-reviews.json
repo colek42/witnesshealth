@@ -2,7 +2,7 @@
     "reviewerStats": [
   {
     "reviewer": "jkjell",
-    "totalReviews": 116
+    "totalReviews": 115
   },
   {
     "reviewer": "kairoaraujo",
@@ -24,11 +24,11 @@
     "commenterStats": [
   {
     "commenter": "dependabot",
-    "totalComments": 65
+    "totalComments": 66
   },
   {
     "commenter": "netlify",
-    "totalComments": 60
+    "totalComments": 61
   },
   {
     "commenter": "jkjell",
@@ -53,6 +53,17 @@
 ],
     "prReviews": [
   {
+    "prNumber": 854,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
+  {
     "prNumber": 853,
     "author": "app/dependabot",
     "reviewers": [],
@@ -68,6 +79,10 @@
     "author": "app/dependabot",
     "reviewers": [],
     "commenters": [
+      {
+        "commenter": "dependabot",
+        "count": 1
+      },
       {
         "commenter": "netlify",
         "count": 1
@@ -2772,17 +2787,6 @@
         "count": 1
       }
     ]
-  },
-  {
-    "prNumber": 653,
-    "author": "app/dependabot",
-    "reviewers": [
-      {
-        "reviewer": "jkjell",
-        "count": 1
-      }
-    ],
-    "commenters": []
   }
 ]
 }

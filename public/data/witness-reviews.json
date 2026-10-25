@@ -101,6 +101,10 @@
   {
     "commenter": "JustinCappos",
     "totalComments": 1
+  },
+  {
+    "commenter": "Anandb71",
+    "totalComments": 1
   }
 ],
     "prReviews": [
@@ -120,6 +124,10 @@
     "author": "Anandb71",
     "reviewers": [],
     "commenters": [
+      {
+        "commenter": "Anandb71",
+        "count": 1
+      },
       {
         "commenter": "netlify",
         "count": 1
