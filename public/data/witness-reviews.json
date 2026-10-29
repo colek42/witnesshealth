@@ -87,6 +87,10 @@
     "totalComments": 3
   },
   {
+    "commenter": "Anandb71",
+    "totalComments": 2
+  },
+  {
     "commenter": "pujitha24",
     "totalComments": 1
   },
@@ -100,10 +104,6 @@
   },
   {
     "commenter": "JustinCappos",
-    "totalComments": 1
-  },
-  {
-    "commenter": "Anandb71",
     "totalComments": 1
   }
 ],
@@ -141,7 +141,7 @@
     "commenters": [
       {
         "commenter": "Anandb71",
-        "count": 1
+        "count": 2
       },
       {
         "commenter": "netlify",
