@@ -87,15 +87,15 @@
     "totalComments": 2
   },
   {
+    "commenter": "bradbeck",
+    "totalComments": 2
+  },
+  {
     "commenter": "0rkz",
     "totalComments": 2
   },
   {
     "commenter": "shmulik-apiiro",
-    "totalComments": 1
-  },
-  {
-    "commenter": "bradbeck",
     "totalComments": 1
   },
   {
@@ -366,7 +366,7 @@
       },
       {
         "commenter": "bradbeck",
-        "count": 1
+        "count": 2
       },
       {
         "commenter": "colek42",
