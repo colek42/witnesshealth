@@ -10,7 +10,7 @@
   },
   {
     "reviewer": "mikhailswift",
-    "totalReviews": 24
+    "totalReviews": 26
   },
   {
     "reviewer": "stupendoussuperpowers",
@@ -23,6 +23,10 @@
   {
     "reviewer": "colek42",
     "totalReviews": 3
+  },
+  {
+    "reviewer": "bradbeck",
+    "totalReviews": 2
   },
   {
     "reviewer": "adityasaky",
@@ -38,10 +42,6 @@
   },
   {
     "reviewer": "copilot-pull-request-reviewer",
-    "totalReviews": 1
-  },
-  {
-    "reviewer": "bradbeck",
     "totalReviews": 1
   }
 ],
@@ -59,12 +59,12 @@
     "totalComments": 34
   },
   {
-    "commenter": "kusari-inspector",
+    "commenter": "stupendoussuperpowers",
     "totalComments": 17
   },
   {
-    "commenter": "stupendoussuperpowers",
-    "totalComments": 16
+    "commenter": "kusari-inspector",
+    "totalComments": 17
   },
   {
     "commenter": "mikhailswift",
@@ -352,11 +352,11 @@
     "reviewers": [
       {
         "reviewer": "bradbeck",
-        "count": 1
+        "count": 2
       },
       {
         "reviewer": "mikhailswift",
-        "count": 1
+        "count": 3
       },
       {
         "reviewer": "stupendoussuperpowers",
@@ -378,7 +378,7 @@
       },
       {
         "commenter": "stupendoussuperpowers",
-        "count": 3
+        "count": 4
       }
     ]
   },
