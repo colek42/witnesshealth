@@ -24,7 +24,7 @@
   },
   {
     "commenter": "netlify",
-    "totalComments": 65
+    "totalComments": 66
   },
   {
     "commenter": "jkjell",
@@ -48,6 +48,17 @@
   }
 ],
     "prReviews": [
+  {
+    "prNumber": 861,
+    "author": "app/dependabot",
+    "reviewers": [],
+    "commenters": [
+      {
+        "commenter": "netlify",
+        "count": 1
+      }
+    ]
+  },
   {
     "prNumber": 860,
     "author": "RaphaelFakhri",
@@ -86,6 +97,10 @@
     "author": "app/dependabot",
     "reviewers": [],
     "commenters": [
+      {
+        "commenter": "dependabot",
+        "count": 1
+      },
       {
         "commenter": "netlify",
         "count": 1
@@ -2770,17 +2785,6 @@
       }
     ],
     "commenters": []
-  },
-  {
-    "prNumber": 659,
-    "author": "app/dependabot",
-    "reviewers": [],
-    "commenters": [
-      {
-        "commenter": "dependabot",
-        "count": 1
-      }
-    ]
   }
 ]
 }
